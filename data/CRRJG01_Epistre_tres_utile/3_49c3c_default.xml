@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>3_49c3c_default.jpg</fileName>
+      <fileIdentifier>https://www.e-rara.ch/i3f/v20/4252751/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT2697" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
+    <OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1088"
+          HEIGHT="1736"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1088"
+                  HEIGHT="1736">
+        <TextBlock HPOS="295"
+                   VPOS="109"
+                   WIDTH="742"
+                   HEIGHT="580"
+                   ID="eSc_textblock_8265f43a"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="310 109 295 689 1024 689 1037 126"/></Shape>
+          <TextLine ID="eSc_line_07e4d49f"
+                    TAGREFS="LT8"
+                    BASELINE="322 165 1016 183" 
+                    HPOS="319"
+                    VPOS="118"
+                    WIDTH="696"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="319 173 347 182 353 182 360 177 368 186 397 177 454 188 458 188 468 179 515 189 532 180 581 189 603 182 610 190 643 183 759 186 782 198 888 190 907 201 1001 202 1014 190 1015 147 910 135 905 135 897 144 844 144 765 127 669 138 604 137 584 122 532 130 520 121 477 120 464 128 431 118 351 127 322 120 319 173"/></Shape>
+	    <String CONTENT="Reſiouys toy terre, car le Seigneur est pour"
+                    HPOS="319"
+                    VPOS="118"
+                    WIDTH="696"
+                    HEIGHT="84"
+                    WC="0.9914134713736448"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b9b6aefc"
+                    TAGREFS="LT8"
+                    BASELINE="328 213 756 222" 
+                    HPOS="327"
+                    VPOS="172"
+                    WIDTH="429"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="328 213 327 231 370 227 413 234 419 235 420 235 424 235 456 229 568 238 584 239 585 239 600 239 711 235 754 242 756 222 756 192 709 180 708 180 707 180 650 188 629 190 624 187 613 178 612 178 611 178 610 178 586 182 558 177 557 177 556 177 539 182 520 188 513 181 508 176 507 176 506 176 489 175 488 175 487 175 486 175 486 176 482 179 474 188 459 188 388 186 358 173 355 172 354 172 328 172 328 213"/></Shape>
+	    <String CONTENT="faire grandes choſes. Ioël 2."
+                    HPOS="327"
+                    VPOS="172"
+                    WIDTH="429"
+                    HEIGHT="70"
+                    WC="0.9847407360871633"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f5b49b6b"
+                    TAGREFS="LT8"
+                    BASELINE="329 311 1017 328" 
+                    HPOS="329"
+                    VPOS="270"
+                    WIDTH="688"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="329 311 329 324 357 324 358 324 365 330 365 331 366 331 367 331 368 331 416 325 417 325 419 325 516 334 517 334 554 328 558 328 566 328 673 339 674 339 746 333 749 333 751 333 788 342 788 342 824 335 834 341 835 341 836 341 904 345 905 345 1016 339 1017 328 1016 294 995 296 986 293 971 286 970 286 969 286 940 291 925 294 841 289 808 287 807 287 793 287 751 290 745 286 739 281 738 281 737 281 673 277 672 277 671 277 670 277 660 284 658 285 654 284 635 276 634 276 633 276 632 276 611 282 605 284 603 282 597 277 596 277 595 277 537 274 536 274 535 274 534 274 526 280 520 284 507 280 483 272 482 272 481 272 480 272 461 278 448 282 431 277 403 271 402 271 401 271 400 271 385 276 377 280 367 276 351 270 350 270 349 270 348 270 329 274 329 311"/></Shape>
+	    <String CONTENT="Car il a esleu lés choſes foibles &amp; contẽptibles"
+                    HPOS="329"
+                    VPOS="270"
+                    WIDTH="688"
+                    HEIGHT="75"
+                    WC="0.9868594193458557"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_40893f79"
+                    TAGREFS="LT8"
+                    BASELINE="323 358 993 378" 
+                    HPOS="322"
+                    VPOS="322"
+                    WIDTH="671"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="322 368 357 376 358 376 416 372 422 372 424 372 456 385 457 385 458 385 480 380 489 386 490 386 491 387 538 387 538 386 539 386 540 386 540 385 548 379 589 389 590 389 640 390 641 390 642 390 660 380 661 379 663 380 672 386 673 386 674 386 675 386 699 382 707 380 712 382 735 393 736 393 785 394 786 394 787 394 807 386 812 384 918 385 926 390 938 396 939 396 940 396 941 396 954 391 964 388 991 392 993 378 993 350 938 343 937 343 936 343 928 347 924 349 923 346 918 343 918 342 917 342 916 342 915 342 914 342 905 346 900 348 861 348 849 343 824 335 823 335 822 335 783 340 757 344 749 339 741 333 740 333 739 333 722 332 721 332 720 332 705 337 689 342 680 336 674 331 673 331 672 331 622 329 621 329 573 331 490 336 479 327 477 325 476 325 475 325 454 325 453 325 439 326 389 333 323 322 323 358"/></Shape>
+	    <String CONTENT="de ce mõde pour cõfondre les grãdes. 1 Cor.1."
+                    HPOS="322"
+                    VPOS="322"
+                    WIDTH="671"
+                    HEIGHT="74"
+                    WC="0.9816909767687321"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_de04b570"
+                    TAGREFS="LT8"
+                    BASELINE="324 458 988 475" 
+                    HPOS="323"
+                    VPOS="416"
+                    WIDTH="665"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="324 458 323 466 345 473 346 473 347 473 444 471 447 471 474 481 475 481 512 482 513 482 514 482 528 476 544 483 545 483 546 483 606 480 626 485 627 485 628 485 629 485 644 480 655 486 656 486 697 487 698 487 699 487 700 487 707 480 710 478 728 478 733 481 737 484 738 484 739 484 740 484 800 483 817 483 820 484 840 490 841 490 842 490 875 486 892 483 914 487 931 489 932 489 933 489 941 488 947 486 950 488 956 493 957 493 958 493 959 493 987 488 988 475 988 441 892 441 884 437 869 430 868 430 867 430 866 430 850 436 842 440 832 435 820 431 819 431 818 431 780 434 745 437 734 433 719 426 718 426 717 426 716 426 697 432 690 426 690 425 689 425 688 425 633 424 632 424 631 424 630 424 623 429 616 434 601 429 583 422 582 422 581 422 545 427 510 432 499 425 490 420 489 420 489 420 488 420 487 420 472 424 458 429 445 424 433 418 432 418 431 418 430 418 416 423 398 429 375 421 358 416 357 416 356 416 355 416 354 416 349 420 344 424 324 420 324 458"/></Shape>
+	    <String CONTENT="Certes il eſt puiſſant de ſuſciter dés pierres e"
+                    HPOS="323"
+                    VPOS="416"
+                    WIDTH="665"
+                    HEIGHT="77"
+                    WC="0.9899351134592173"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d78e4c88"
+                    TAGREFS="LT8"
+                    BASELINE="317 506 884 524" 
+                    HPOS="316"
+                    VPOS="468"
+                    WIDTH="568"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="317 506 316 517 358 531 359 531 360 531 439 524 457 523 462 525 481 534 482 534 525 537 526 537 527 537 547 530 554 528 558 531 564 535 565 535 566 535 567 535 586 532 615 528 711 532 725 540 733 543 734 543 781 544 782 544 783 544 787 542 801 536 830 545 835 546 836 546 882 547 884 524 884 496 799 483 798 483 797 483 779 491 723 490 702 479 701 479 700 479 699 479 673 488 662 479 662 478 661 478 660 478 641 477 590 476 589 476 588 476 587 476 577 484 534 474 533 474 490 483 484 483 466 483 461 474 460 474 460 473 459 473 458 473 457 473 412 480 403 471 403 470 402 470 401 470 355 468 354 468 317 477 317 506"/></Shape>
+	    <String CONTENT="en faire des enfans à Abraham. Luc3."
+                    HPOS="316"
+                    VPOS="468"
+                    WIDTH="568"
+                    HEIGHT="79"
+                    WC="0.9792801641129159"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_289ed34c"
+                    TAGREFS="LT8"
+                    BASELINE="320 602 1007 623" 
+                    HPOS="319"
+                    VPOS="563"
+                    WIDTH="688"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="320 602 319 621 336 628 337 628 338 628 364 623 376 620 473 622 483 625 506 633 507 633 508 633 509 633 520 628 538 637 539 637 540 637 541 637 566 627 570 626 576 627 622 638 623 638 624 638 636 632 696 640 697 640 698 640 714 635 724 643 725 643 726 643 727 643 769 640 770 640 771 640 780 633 781 632 785 633 798 638 799 638 800 638 801 638 811 634 815 633 817 634 850 647 851 647 852 647 930 645 943 650 944 650 945 650 965 649 966 649 967 649 983 639 1006 639 1007 623 1007 594 925 586 924 586 924 586 923 586 919 590 897 580 896 580 895 580 894 580 893 580 881 589 880 589 860 581 859 581 858 581 809 585 786 587 735 586 728 581 713 574 712 574 711 574 671 579 667 579 662 578 629 571 628 571 593 575 592 575 588 575 533 569 532 569 531 569 521 572 505 578 462 569 454 569 453 569 448 569 417 575 398 567 393 565 392 565 391 565 381 566 358 570 348 565 344 563 343 563 342 563 321 563 320 602"/></Shape>
+	    <String CONTENT="Et ſi ceux cy ſe taiſent, les pierres parleront."
+                    HPOS="319"
+                    VPOS="563"
+                    WIDTH="688"
+                    HEIGHT="87"
+                    WC="0.9792377563814322"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e49e4cd0"
+                    TAGREFS="LT8"
+                    BASELINE="314 654 434 656" 
+                    HPOS="313"
+                    VPOS="619"
+                    WIDTH="121"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="314 654 313 669 374 682 375 682 433 671 434 656 433 628 314 619 314 654"/></Shape>
+	    <String CONTENT="Luc i9."
+                    HPOS="313"
+                    VPOS="619"
+                    WIDTH="121"
+                    HEIGHT="63"
+                    WC="0.9927527393613543"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
