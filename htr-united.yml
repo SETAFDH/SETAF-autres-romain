@@ -44,100 +44,44 @@ authors:
 characters:
   members:
   - e
+  - r
   - s
-  - u
   - i
+  - o
   - a
   - t
-  - r
-  - n
-  - o
-  - l
+  - ſ
   - c
+  - l
+  - u
+  - n
+  - .
   - d
   - p
-  - m
-  - ̃
-  - .
-  - /
-  - q
   - f
+  - ̃
   - y
   - g
   - h
-  - b
-  - ⁊
-  - z
-  - ¬
-  - ':'
-  - x
   - C
-  - '1'
-  - I
-  - E
-  - L
-  - D
-  - P
-  - A
-  - ¶
-  - ͥ
-  - '2'
-  - M
-  - S
-  - '3'
-  - '*'
-  - ͬ
-  - Q
-  - '?'
-  - '4'
-  - N
-  - T
-  - ꝰ
-  - '5'
-  - '6'
-  - R
-  - U
-  - '0'
-  - '8'
+  - b
   - ','
-  - H
-  - O
-  - '7'
-  - '9'
-  - (
-  - )
-  - ꝓ
-  - G
-  - ꝑ
-  - B
-  - F
-  - ̈
-  - ꝯ
-  - ł
-  - ð
-  - ◊
-  - '-'
-  -  
-  - ꝝ
-  - v
-  - Z
-  - k
-  - "'"
-  - K
-  - Y
-  - X
-  - ̀
-  - ꝫ
-  - V
   - ́
-  - J
-  - ꝙ
-  - ᵉ
-  - w
-  - ;
-  - ꝗ
-  - ̇
-  - ̌
+  - m
+  - '1'
+  - L
+  - R
+  - S
+  - I
+  - ̈
+  - '2'
+  - '&'
+  - ̀
+  - A
+  - '3'
+  - E
+  - x
+  - '9'
   mode: NFD
 citation-file-link: https://github.com/SETAFDH/SETAF-autres-romain/blob/main/CITATION.cff
 description: >-
@@ -171,11 +115,11 @@ transcription-guidelines: >-
   our rules is available on HAL  (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/SETAF-autres-romain
 volume:
-- count: 1718361
+- count: 263
   metric: characters
-- count: 1835
+- count: 2
   metric: files
-- count: 64388
+- count: 8
   metric: lines
-- count: 8546
+- count: 1
   metric: regions
