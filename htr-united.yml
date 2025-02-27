@@ -57,72 +57,73 @@ characters:
   - c
   - d
   - p
-  - m
   - ̃
+  - m
   - ','
-  - q
   - .
+  - q
   - f
   - y
-  - v
-  - h
-  - g
   - ́
+  - h
+  - v
+  - g
   - b
   - z
   - '&'
   - ’
   - "'"
-  - ¬
   - ̀
+  - ¬
   - ':'
   - x
   - I
   - D
   - C
   - E
+  - '1'
   - ß
   - M
-  - '?'
-  - '1'
-  - A
   - '2'
+  - '?'
+  - A
   - S
+  - ꝑ
   - L
   - P
-  - R
-  - T
-  - N
   - '3'
+  - R
+  - ꝗ
+  - T
   - '4'
+  - N
   - ̧
   - '5'
-  - O
   - œ
   - Q
   - '7'
   - (
+  - )
+  - '0'
+  - G
   - F
   - '6'
-  - G
   - V
   - B
-  - )
-  - H
-  - '0'
-  - '8'
   - '9'
+  - '8'
+  - ꝓ
+  - O
+  - H
   - ̈
   - X
-  - j
+  - k
   - Z
-  - 
+  - ꝙ
   - ̂
-  - ꝰ
-  - æ
-  - U
-  - ;
   - ͬ
+  - ꝰ
+  - U
   mode: NFD
 citation-file-link: https://github.com/SETAFDH/SETAF-autres-romain/blob/main/CITATION.cff
 description: >-
@@ -156,9 +157,9 @@ transcription-guidelines: >-
   our rules is available on HAL  (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/SETAF-autres-romain
 volume:
-- count: 65548
+- count: 65849
   metric: characters
-- count: 65
+- count: 64
   metric: files
 - count: 1845
   metric: lines
