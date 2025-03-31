@@ -46,84 +46,89 @@ characters:
   - e
   - u
   - a
-  - t
   - r
-  - i
+  - t
   - n
+  - i
   - o
   - l
   - ſ
   - s
   - c
   - d
-  - p
-  - ̃
   - m
-  - ','
+  - p
   - .
+  - ','
+  - ̃
   - q
   - f
-  - y
-  - ́
   - h
+  - y
+  - b
   - v
   - g
-  - b
+  - ́
+  - ’
   - z
   - '&'
-  - ’
-  - "'"
-  - ̀
-  - ¬
+  - E
   - ':'
-  - x
+  - C
+  - "'"
   - I
   - D
-  - C
-  - E
+  - ̀
   - '1'
-  - ß
-  - M
   - '2'
-  - '?'
-  - A
+  - x
+  - ¬
   - S
-  - ꝑ
-  - L
   - P
-  - '3'
+  - L
+  - M
+  - A
+  - N
   - R
-  - ꝗ
+  - '3'
   - T
   - '4'
-  - N
-  - ̧
   - '5'
-  - œ
   - Q
-  - '7'
+  - V
+  - '?'
+  - O
+  - ß
+  - œ
   - (
   - )
+  - '6'
+  - ꝑ
+  - '8'
+  - '9'
+  - H
   - '0'
+  - '7'
+  - ꝗ
+  - ̧
   - G
   - F
-  - '6'
-  - V
   - B
-  - '9'
-  - '8'
+  - Y
   - ꝓ
-  - O
-  - H
   - ̈
   - X
   - k
+  - ̂
   - Z
   - ꝙ
-  - ̂
+  -  
   - ͬ
+  - ͥ
   - ꝰ
   - U
+  - ◊
+  - J
   mode: NFD
 citation-file-link: https://github.com/SETAFDH/SETAF-autres-romain/blob/main/CITATION.cff
 description: >-
@@ -157,11 +162,11 @@ transcription-guidelines: >-
   our rules is available on HAL  (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/SETAF-autres-romain
 volume:
-- count: 65849
+- count: 114759
   metric: characters
-- count: 64
+- count: 129
   metric: files
-- count: 1845
+- count: 3970
   metric: lines
-- count: 271
+- count: 823
   metric: regions
