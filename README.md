@@ -37,12 +37,12 @@ Les transcriptions sont [CC-BY](https://creativecommons.org/licenses/by/4.0), et
 
 ## Citer le dépôt
 
-- Version `1.0`: Sonia Solfrini, _Données OCR et segmentation des imprimés de Jean Girard et autres (projet SETAF)_, version `1.0`, Genève, université de Genève, 2025, https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle.
+- Version `1.0`: Sonia Solfrini, _Données OCR et segmentation des imprimés de Jean Girard et autres (projet SETAF)_, version `1.0`, Genève, université de Genève, 2025, https://github.com/SETAFDH/SETAF-autres-romain.
 
 ```bibtex
 @misc{solfrini_GirardSETAF_2025,
   author={Solfrini, Sonia},
-  title={Données OCR et segmentation des imprimés de Pierre de Vingle (projet SETAF)},
+  title={Données OCR et segmentation des imprimés de Jean Girard et autres (projet SETAF)},
   version={1.0},
   address={Genève},
   publisher={université de Genève},
