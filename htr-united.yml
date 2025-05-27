@@ -47,8 +47,8 @@ characters:
   - u
   - a
   - r
-  - t
   - n
+  - t
   - i
   - o
   - l
@@ -61,63 +61,64 @@ characters:
   - .
   - ','
   - ̃
-  - q
-  - h
   - f
+  - h
   - y
+  - q
   - b
   - g
   - v
+  - z
   - ́
   - ’
-  - z
   - '&'
   - E
-  - ':'
   - C
-  - "'"
+  - ':'
   - D
+  - "'"
   - I
   - ̀
-  - '1'
-  - x
-  - '2'
-  - P
   - S
-  - ¬
+  - x
+  - P
   - L
+  - '1'
+  - '2'
   - M
   - A
-  - N
-  - T
-  - R
-  - '3'
+  - ¬
   - Q
-  - '4'
+  - N
+  - R
+  - T
   - V
-  - '5'
-  - '?'
+  - '3'
   - O
+  - '?'
+  - '4'
+  - '5'
   - ß
   - œ
   - (
   - )
   - '6'
-  - ꝑ
-  - '8'
   - H
+  - ꝑ
+  - F
+  - '8'
   - '0'
   - '9'
   - '7'
   - ꝗ
-  - F
-  - ̧
   - G
   - B
+  - ̧
   - Y
+  - j
+  - '-'
   - ꝓ
   - ̈
-  - '-'
   - X
   - k
   - ̂
@@ -163,7 +164,7 @@ transcription-guidelines: >-
   our rules is available on HAL  (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/SETAF-autres-romain
 volume:
-- count: 121508
+- count: 146353
   metric: characters
 - count: 193
   metric: files
