@@ -62,8 +62,8 @@ characters:
   - ','
   - ̃
   - q
-  - f
   - h
+  - f
   - y
   - b
   - g
@@ -83,17 +83,17 @@ characters:
   - x
   - '2'
   - P
-  - ¬
   - S
+  - ¬
   - L
   - M
   - A
   - N
-  - R
   - T
+  - R
   - '3'
-  - '4'
   - Q
+  - '4'
   - V
   - '5'
   - '?'
@@ -117,6 +117,7 @@ characters:
   - Y
   - ꝓ
   - ̈
+  - '-'
   - X
   - k
   - ̂
@@ -162,7 +163,7 @@ transcription-guidelines: >-
   our rules is available on HAL  (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/SETAF-autres-romain
 volume:
-- count: 118701
+- count: 121508
   metric: characters
 - count: 193
   metric: files
