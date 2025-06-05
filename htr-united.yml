@@ -46,91 +46,95 @@ characters:
   - e
   - u
   - a
-  - r
   - n
-  - t
+  - r
   - i
+  - t
   - o
-  - ſ
   - l
+  - ſ
   - s
+  - .
   - c
   - d
   - m
   - p
-  - .
   - ','
-  - ̃
+  - y
   - h
   - f
-  - y
   - q
   - b
-  - g
   - v
+  - g
   - z
-  - ́
   - ’
-  - '&'
   - E
+  - '&'
+  - ̃
   - C
+  - '1'
   - D
+  - ́
   - ':'
-  - "'"
   - I
   - S
-  - ̀
-  - x
-  - P
-  - L
-  - '1'
   - '2'
-  - M
+  - x
+  - L
+  - P
   - A
-  - ¬
-  - Q
+  - "'"
+  - M
   - N
-  - T
+  - ̀
   - R
   - V
-  - '3'
-  - O
-  - '?'
+  - T
   - '4'
-  - ß
+  - Q
+  - ¬
+  - O
+  - '6'
   - '5'
+  - '3'
+  - '8'
+  - H
+  - '?'
+  - B
+  - )
+  - '7'
+  - F
   - œ
   - (
-  - )
-  - '6'
-  - F
-  - H
-  - ꝑ
-  - '8'
   - '0'
   - '9'
-  - B
-  - '7'
-  - ꝗ
+  - ß
+  - Y
   - G
   - ̧
-  - Y
+  - ꝑ
+  - ꝗ
   - j
+  - X
+  - ;
   - '-'
+  - '!'
   - ꝓ
   - ̈
-  - X
-  - k
-  - ̂
   - Z
-  - ꝙ
-  -  
-  - ͬ
-  - ͥ
-  - ꝰ
   - U
-  - ◊
+  - ̂
+  - k
+  - ͬ
+  - ꝙ
+  - '['
+  - ꝰ
   - J
+  - ι
+  - ν
+  - '"'
+  - ε
   mode: NFD
 citation-file-link: https://github.com/SETAFDH/SETAF-autres-romain/blob/main/CITATION.cff
 description: >-
@@ -164,11 +168,11 @@ transcription-guidelines: >-
   our rules is available on HAL  (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/SETAF-autres-romain
 volume:
-- count: 150593
+- count: 296249
   metric: characters
-- count: 193
+- count: 399
   metric: files
-- count: 5603
+- count: 13063
   metric: lines
-- count: 983
+- count: 2914
   metric: regions
