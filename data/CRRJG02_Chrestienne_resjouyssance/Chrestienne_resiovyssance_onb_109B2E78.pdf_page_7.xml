@@ -6,47 +6,38 @@
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>Chrestienne_resiovyssance_onb_109B2E78.pdf_page_7.png</fileName>
-      
+      <fileIdentifier>pdf//Chrestienne_resiovyssance_onb_109B2E78.pdf</fileIdentifier>
     </sourceImageInformation>
   </Description>
-  
   <Tags>
-    <OtherTag ID="BT1450" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1451" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1452" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1453" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1454" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1455" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/><OtherTag ID="BT1456" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1457" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1458" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1459" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
-    <OtherTag ID="LT528" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT529" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT527" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT2845" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
+    <OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT853" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
-  
   <Layout>
     <Page WIDTH="982"
           HEIGHT="1528"
-          PHYSICAL_IMG_NR="1"
+          PHYSICAL_IMG_NR="6"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
                   WIDTH="982"
                   HEIGHT="1528">
-        
-        <TextBlock HPOS="409"
-                   VPOS="654"
-                   WIDTH="207"
-                   HEIGHT="205"
-                   ID="eSc_textblock_2f463735"
-                   TAGREFS="BT1458">
-          <Shape><Polygon POINTS="409 654 409 859 616 859 614 654"/></Shape>
-          
+        <TextBlock HPOS="402"
+                   VPOS="651"
+                   WIDTH="217"
+                   HEIGHT="208"
+                   ID="eSc_textblock_5b63e8ed"
+                   TAGREFS="BT20">
+          <Shape><Polygon POINTS="404 651 402 859 618 859 619 656"/></Shape>
         </TextBlock>
-        
-        <TextBlock HPOS="229"
-                   VPOS="962"
-                   WIDTH="313"
-                   HEIGHT="322"
-                   ID="eSc_textblock_d1847ff6"
-                   TAGREFS="BT1458">
-          <Shape><Polygon POINTS="233 963 229 1284 542 1282 542 962"/></Shape>
-          
+        <TextBlock HPOS="207"
+                   VPOS="958"
+                   WIDTH="336"
+                   HEIGHT="327"
+                   ID="eSc_textblock_8b85d29a"
+                   TAGREFS="BT20">
+          <Shape><Polygon POINTS="207 968 243 1285 543 1285 543 958"/></Shape>
         </TextBlock>
-        
-
-        
       </PrintSpace>
     </Page>
   </Layout>
