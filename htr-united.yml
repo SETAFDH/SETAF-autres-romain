@@ -14,7 +14,6 @@ authors:
 - name: Geneviève
   orcid: 0009-0006-5367-4262
   roles:
-  - transcriber
   - project-manager
   - quality-control
   surname: Gross
@@ -137,7 +136,7 @@ characters:
   mode: NFD
 citation-file-link: https://github.com/SETAFDH/SETAF-autres-romain/blob/main/CITATION.cff
 description: >-
-  OCR data for the SETAF project, 16th-century French prints in Gothic
+  OCR data for the SETAF project, 16th-century French prints in Roman
   characters.
 format: Alto-XML
 hands:
@@ -161,10 +160,10 @@ time:
   notBefore: '1500'
 title: SETAF-autres-romain
 transcription-guidelines: >-
-  Our data follow SegmOnto segmentation standards (https://segmonto.github.io).  Our
-  transcription guidelines follow a graphematic approach, without  regularisation.
-  We keep the original punctuation and abbreviations. A detailed  presentation of
-  our rules is available on HAL  (https://hal.science/hal-04281804).
+  Our data follow SegmOnto segmentation standards (https://segmonto.github.io). Our
+  transcription guidelines follow a graphematic approach, without regularisation.
+  We keep the original punctuation and abbreviations. A detailed presentation of
+  our rules is available on HAL (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/SETAF-autres-romain
 volume:
 - count: 296704
