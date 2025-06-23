@@ -67,17 +67,17 @@ characters:
   - v
   - g
   - z
-  - ’
   - E
+  - ’
   - '&'
   - ̃
   - C
   - '1'
   - ':'
-  - D
   - ́
-  - I
+  - D
   - '2'
+  - I
   - S
   - x
   - P
@@ -85,15 +85,15 @@ characters:
   - "'"
   - A
   - M
-  - N
   - ̀
+  - N
   - R
   - V
   - T
   - Q
   - ¬
-  - '4'
   - O
+  - '4'
   - '3'
   - '5'
   - '6'
@@ -106,8 +106,8 @@ characters:
   - B
   - œ
   - '0'
-  - F
   - '9'
+  - F
   - ß
   - Y
   - G
@@ -118,17 +118,17 @@ characters:
   - X
   - '-'
   - ꝓ
-  - ̈
   - Z
-  - '!'
-  - ;
+  - ̈
   - ◊
+  - ;
+  - '!'
   - U
   - k
-  - ͬ
   - ꝙ
   - ̂
   - ͥ
+  - ͬ
   - ꝰ
   - '['
   - J
@@ -166,11 +166,11 @@ transcription-guidelines: >-
   our rules is available on HAL (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/SETAF-autres-romain
 volume:
-- count: 296942
+- count: 297575
   metric: characters
 - count: 399
   metric: files
-- count: 13066
+- count: 13065
   metric: lines
-- count: 2911
+- count: 2910
   metric: regions
