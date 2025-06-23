@@ -113,12 +113,12 @@
                     WIDTH="638"
                     HEIGHT="59">
             <Shape><Polygon POINTS="81 217 80 228 155 238 293 229 331 238 388 228 400 238 526 239 540 225 679 225 714 238 718 219 718 190 706 181 701 181 665 197 523 197 505 181 462 181 429 195 383 185 370 192 359 181 353 181 335 193 285 180 261 189 180 183 155 192 100 180 81 186 81 217"/></Shape>
-            <String CONTENT="Du quel parle tant Martin, i."
+            <String CONTENT="Du quel parle tant Martin, .i."
                     HPOS="80"
                     VPOS="180"
                     WIDTH="638"
                     HEIGHT="59"
-                    WC="0.9981139733873564"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_f1d20a67"
                     TAGREFS="LT8"
@@ -128,12 +128,12 @@
                     WIDTH="646"
                     HEIGHT="66">
             <Shape><Polygon POINTS="81 259 80 271 113 281 145 272 163 281 199 273 211 282 309 273 355 283 405 277 438 283 449 276 478 284 502 277 523 286 590 286 615 276 724 276 726 239 713 227 687 227 674 240 604 240 576 225 532 225 506 238 489 228 458 233 449 224 414 237 397 229 391 229 380 237 309 234 271 223 262 225 244 237 217 237 81 220 81 259"/></Shape>
-            <String CONTENT="Diſant: qu’il nous doibt ſouffire. i."
+            <String CONTENT="Diſant: qu’il nous doibt ſouffire. .i."
                     HPOS="80"
                     VPOS="220"
                     WIDTH="646"
                     HEIGHT="66"
-                    WC="0.9912294101070713"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_73b68b82"
                     TAGREFS="LT8"
@@ -143,7 +143,7 @@
                     WIDTH="637"
                     HEIGHT="57">
             <Shape><Polygon POINTS="84 303 82 317 91 321 96 321 106 312 169 326 202 317 211 326 251 318 272 325 309 318 459 326 488 311 555 317 684 311 716 326 719 279 706 269 701 269 675 283 489 283 473 269 433 282 407 272 365 281 351 269 306 279 256 269 233 281 212 269 169 269 163 277 144 269 84 272 84 303"/></Shape>
-            <String CONTENT="Paix là, ſus ho là: paix là i."
+            <String CONTENT="Paix là, ſus ho là: paix là .i."
                     HPOS="82"
                     VPOS="269"
                     WIDTH="637"
@@ -158,12 +158,12 @@
                     WIDTH="635"
                     HEIGHT="56">
             <Shape><Polygon POINTS="82 348 81 365 149 360 219 367 262 357 314 367 359 362 522 368 533 357 713 362 716 351 714 317 678 313 674 313 659 330 516 330 483 313 478 313 458 327 418 317 369 326 322 312 286 312 278 320 261 313 231 323 212 312 168 322 146 312 141 312 133 320 90 312 82 320 82 348"/></Shape>
-            <String CONTENT="Car cecy n’eſt pas pour rire. i."
+            <String CONTENT="Car cecy n’eſt pas pour rire. .i."
                     HPOS="81"
                     VPOS="312"
                     WIDTH="635"
                     HEIGHT="56"
-                    WC="0.9823495037853718"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_6780ae53"
                     TAGREFS="LT8"
@@ -173,7 +173,7 @@
                     WIDTH="520"
                     HEIGHT="69">
             <Shape><Polygon POINTS="199 392 201 425 241 412 278 426 316 426 344 409 374 409 398 426 512 426 556 406 719 404 719 371 702 357 696 357 674 373 535 373 464 357 442 357 428 371 398 357 366 370 348 357 342 357 325 366 295 357 272 366 262 357 199 357 199 392"/></Shape>
-            <String CONTENT="Paix là, ſus ho là, &amp;c. i."
+            <String CONTENT="Paix là, ſus ho là, &amp;c. .i."
                     HPOS="199"
                     VPOS="357"
                     WIDTH="520"
@@ -218,12 +218,12 @@
                     WIDTH="640"
                     HEIGHT="58">
             <Shape><Polygon POINTS="87 582 165 577 214 584 250 577 511 586 525 576 580 583 594 576 682 576 704 584 726 574 727 535 689 532 672 548 515 548 479 530 329 542 302 529 278 537 267 529 261 529 231 540 218 529 119 539 90 528 87 582"/></Shape>
-            <String CONTENT="Le Pape eſtoit trop enclin i."
+            <String CONTENT="Le Pape eſtoit trop enclin .i."
                     HPOS="87"
                     VPOS="528"
                     WIDTH="640"
                     HEIGHT="58"
-                    WC="0.993031904615205"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_3e3e052e"
                     TAGREFS="LT8"
@@ -233,12 +233,12 @@
                     WIDTH="642"
                     HEIGHT="55">
             <Shape><Polygon POINTS="89 609 87 622 535 628 551 621 670 621 727 628 729 588 712 574 707 574 678 591 492 591 466 574 393 586 317 573 223 573 206 586 188 573 163 579 136 574 126 583 114 573 110 573 89 574 89 609"/></Shape>
-            <String CONTENT="A Ieſus Chriſt contredire. i."
+            <String CONTENT="A Ieſus Chriſt contredire. .i."
                     HPOS="87"
                     VPOS="573"
                     WIDTH="642"
                     HEIGHT="55"
-                    WC="0.9813316217784224"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_be3af9f3"
                     TAGREFS="LT8"
@@ -248,7 +248,7 @@
                     WIDTH="636"
                     HEIGHT="58">
             <Shape><Polygon POINTS="91 651 91 667 114 661 128 670 250 671 272 662 281 671 320 665 471 672 487 660 662 660 680 672 726 668 727 626 697 617 682 632 540 632 532 624 484 631 459 617 454 617 438 627 388 616 384 616 370 627 335 617 304 627 285 616 255 622 248 616 139 616 130 623 91 614 91 651"/></Shape>
-            <String CONTENT="Paix là ſus ho là :paix là i."
+            <String CONTENT="Paix là ſus ho là :paix là .i."
                     HPOS="91"
                     VPOS="614"
                     WIDTH="636"
@@ -263,12 +263,12 @@
                     WIDTH="639"
                     HEIGHT="62">
             <Shape><Polygon POINTS="94 695 92 714 152 715 165 706 221 715 271 709 292 716 353 710 359 716 363 716 400 711 413 719 525 719 547 706 728 709 731 700 729 661 699 661 684 677 574 677 522 660 359 673 311 661 261 668 197 657 187 667 172 662 164 668 146 657 126 663 94 657 94 695"/></Shape>
-            <String CONTENT="Car cecy n’eſt pas pour rire. i."
+            <String CONTENT="Car cecy n’eſt pas pour rire. .i."
                     HPOS="92"
                     VPOS="657"
                     WIDTH="639"
                     HEIGHT="62"
-                    WC="0.982602683827281"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_aa3694ef"
                     TAGREFS="LT8"
@@ -278,7 +278,7 @@
                     WIDTH="524"
                     HEIGHT="64">
             <Shape><Polygon POINTS="208 740 207 747 247 765 291 765 314 754 340 766 412 766 433 754 528 766 560 751 630 759 688 753 727 763 731 745 729 706 702 706 687 722 601 722 546 721 532 707 517 711 511 705 479 714 468 704 437 711 393 707 384 715 353 704 335 715 320 702 285 704 277 711 266 702 208 705 208 740"/></Shape>
-            <String CONTENT="Paix là, ſus ho là, &amp;c. i."
+            <String CONTENT="Paix là, ſus ho là, &amp;c. .i."
                     HPOS="207"
                     VPOS="702"
                     WIDTH="524"
@@ -323,7 +323,7 @@
                     WIDTH="629"
                     HEIGHT="58">
             <Shape><Polygon POINTS="101 914 100 927 126 936 293 931 484 937 497 924 688 924 726 937 729 887 703 881 682 896 545 896 538 888 486 894 466 882 420 886 395 879 327 879 310 889 285 889 273 879 253 887 203 879 144 888 128 879 101 881 101 914"/></Shape>
-            <String CONTENT="Pour ce vient il à declin i."
+            <String CONTENT="Pour ce vient il à declin .i."
                     HPOS="100"
                     VPOS="879"
                     WIDTH="629"
@@ -338,12 +338,12 @@
                     WIDTH="637"
                     HEIGHT="63">
             <Shape><Polygon POINTS="100 958 99 968 304 982 363 972 407 981 430 973 438 981 444 981 451 976 580 985 734 973 736 963 734 929 644 934 584 926 491 933 476 927 453 933 385 923 381 923 373 932 358 926 310 932 291 923 252 922 236 931 228 922 202 922 183 931 177 924 100 923 100 958"/></Shape>
-            <String CONTENT="Comme ſainct Paul veint predire. i."
+            <String CONTENT="Comme ſainct Paul veint predire. .i."
                     HPOS="99"
                     VPOS="922"
                     WIDTH="637"
                     HEIGHT="63"
-                    WC="0.9833458355494908"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_85dbafdf"
                     TAGREFS="LT8"
@@ -353,12 +353,12 @@
                     WIDTH="637"
                     HEIGHT="59">
             <Shape><Polygon POINTS="101 1004 100 1016 301 1025 332 1016 359 1027 467 1027 492 1014 582 1024 606 1015 706 1015 729 1024 736 1017 737 972 709 971 696 986 526 986 456 970 434 977 422 970 415 970 400 982 389 975 360 980 348 970 342 970 324 980 304 968 276 977 256 968 223 977 206 968 180 975 152 968 148 968 140 975 128 968 101 970 101 1004"/></Shape>
-            <String CONTENT="Paix la, ſus ho la: paix la i."
+            <String CONTENT="Paix la, ſus ho la: paix la .i."
                     HPOS="100"
                     VPOS="968"
                     WIDTH="637"
                     HEIGHT="59"
-                    WC="0.9906209349632263"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_f09d62f2"
                     TAGREFS="LT8"
@@ -368,12 +368,12 @@
                     WIDTH="635"
                     HEIGHT="55">
             <Shape><Polygon POINTS="101 1047 101 1069 157 1060 204 1066 216 1061 231 1069 267 1061 319 1070 530 1070 552 1059 734 1065 736 1015 707 1015 685 1029 536 1029 506 1015 501 1015 481 1027 375 1025 361 1016 335 1021 329 1015 238 1016 232 1022 213 1015 101 1017 101 1047"/></Shape>
-            <String CONTENT="Car cecy n’eſt pas pour rire. i."
+            <String CONTENT="Car cecy n’eſt pas pour rire. .i."
                     HPOS="101"
                     VPOS="1015"
                     WIDTH="635"
                     HEIGHT="55"
-                    WC="0.9639601353555918"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_d47d94f3"
                     TAGREFS="LT8"
@@ -383,7 +383,7 @@
                     WIDTH="518"
                     HEIGHT="68">
             <Shape><Polygon POINTS="224 1094 223 1109 239 1115 287 1111 296 1120 300 1120 353 1110 398 1124 501 1124 526 1109 540 1120 546 1120 570 1104 702 1104 737 1114 741 1098 740 1061 706 1060 682 1074 572 1074 520 1069 512 1060 506 1060 487 1071 458 1059 429 1071 417 1059 410 1059 395 1069 379 1057 336 1066 312 1059 301 1069 285 1057 224 1056 224 1094"/></Shape>
-            <String CONTENT="Paix la. ſus ho la, &amp;c i."
+            <String CONTENT="Paix la. ſus ho la, &amp;c .i."
                     HPOS="223"
                     VPOS="1056"
                     WIDTH="518"
@@ -428,12 +428,12 @@
                     WIDTH="635"
                     HEIGHT="62">
             <Shape><Polygon POINTS="111 1268 110 1277 133 1285 408 1283 458 1290 505 1281 527 1287 743 1283 745 1237 709 1237 696 1252 674 1255 506 1252 481 1233 393 1232 360 1243 327 1231 291 1242 192 1228 177 1242 160 1242 149 1233 111 1236 111 1268"/></Shape>
-            <String CONTENT="O que Satan fut bien fin i."
+            <String CONTENT="O que Satan fut bien fin .i."
                     HPOS="110"
                     VPOS="1228"
                     WIDTH="635"
                     HEIGHT="62"
-                    WC="0.9960966772503324"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_8d09de9c"
                     TAGREFS="LT8"
@@ -443,12 +443,12 @@
                     WIDTH="631"
                     HEIGHT="77">
             <Shape><Polygon POINTS="719 1278 713 1278 698 1293 569 1293 535 1276 468 1281 461 1288 412 1276 371 1287 348 1277 307 1287 288 1275 202 1275 190 1285 145 1275 116 1278 115 1337 183 1349 204 1331 248 1330 276 1346 322 1344 331 1351 545 1352 591 1331 684 1331 699 1337 745 1330 746 1283 719 1278"/></Shape>
-            <String CONTENT="Quand il le veint introduire. i."
+            <String CONTENT="Quand il le veint introduire. .i."
                     HPOS="115"
                     VPOS="1275"
                     WIDTH="631"
                     HEIGHT="77"
-                    WC="0.968442752957344"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="628"
