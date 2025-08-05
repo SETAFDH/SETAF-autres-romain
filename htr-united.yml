@@ -134,7 +134,7 @@ characters:
   - ꝙ
   - ͬ
   - ꝫ
-  - ;
+  - ẞ
   mode: NFD
 citation-file-link: https://github.com/SETAFDH/SETAF-autres-romain/blob/main/CITATION.cff
 description: >-
@@ -168,7 +168,7 @@ transcription-guidelines: >-
   our rules is available on HAL (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/SETAF-autres-romain
 volume:
-- count: 433084
+- count: 433034
   metric: characters
 - count: 575
   metric: files
