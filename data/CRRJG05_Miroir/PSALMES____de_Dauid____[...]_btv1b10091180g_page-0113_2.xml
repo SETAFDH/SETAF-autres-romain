@@ -444,17 +444,17 @@
           <Shape><Polygon POINTS="1228 969 1228 1121 1531 1121 1531 969"/></Shape>
           <TextLine ID="eSc_line_4ff54655"
                     TAGREFS="LT8"
-                    BASELINE="1257 1073 1495 1079" 
+                    BASELINE="1257 1073 1514 1079" 
                     HPOS="1253"
-                    VPOS="968"
-                    WIDTH="241"
-                    HEIGHT="177">
-            <Shape><Polygon POINTS="1256 1070 1253 1119 1309 1142 1311 1142 1314 1142 1396 1128 1488 1145 1494 1076 1494 1006 1430 971 1428 971 1378 968 1375 968 1372 968 1369 968 1314 1003 1256 992 1256 1070"/></Shape>
+                    VPOS="1000"
+                    WIDTH="259"
+                    HEIGHT="148">
+            <Shape><Polygon POINTS="1256 1070 1253 1119 1506 1148 1512 1076 1512 1015 1256 1000 1256 1070"/></Shape>
             <String CONTENT="Exod.20"
                     HPOS="1253"
-                    VPOS="968"
-                    WIDTH="241"
-                    HEIGHT="177"
+                    VPOS="1000"
+                    WIDTH="259"
+                    HEIGHT="148"
                     ></String>
           </TextLine>
         </TextBlock>
