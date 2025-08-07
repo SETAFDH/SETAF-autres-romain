@@ -22,13 +22,13 @@
                   VPOS="0"
                   WIDTH="937"
                   HEIGHT="1541">
-        <TextBlock HPOS="108"
+        <TextBlock HPOS="100"
                    VPOS="61"
-                   WIDTH="819"
-                   HEIGHT="1264"
+                   WIDTH="837"
+                   HEIGHT="1267"
                    ID="eSc_textblock_1f94a9d0"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="108 61 118 1325 927 1318 922 61"/></Shape>
+          <Shape><Polygon POINTS="100 61 110 1328 937 1318 922 61"/></Shape>
           <TextLine ID="eSc_line_a2c222bf"
                     TAGREFS="LT8"
                     BASELINE="205 65 239 63" 
@@ -435,13 +435,13 @@
                     ></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="844"
-                   VPOS="1308"
-                   WIDTH="87"
-                   HEIGHT="54"
+        <TextBlock HPOS="839"
+                   VPOS="1301"
+                   WIDTH="98"
+                   HEIGHT="71"
                    ID="eSc_textblock_74362352"
                    TAGREFS="BT17">
-          <Shape><Polygon POINTS="844 1311 844 1362 931 1362 931 1308"/></Shape>
+          <Shape><Polygon POINTS="841 1301 839 1372 937 1367 937 1305"/></Shape>
           <TextLine ID="eSc_line_51e15570"
                     TAGREFS="LT8"
                     BASELINE="859 1344 922 1346" 
@@ -458,13 +458,13 @@
                     WC="0.9992729723453522"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="186"
-                   VPOS="37"
-                   WIDTH="70"
-                   HEIGHT="41"
+        <TextBlock HPOS="183"
+                   VPOS="32"
+                   WIDTH="78"
+                   HEIGHT="46"
                    ID="eSc_textblock_9f669484"
                    TAGREFS="BT15">
-          <Shape><Polygon POINTS="186 37 186 78 256 78 256 37"/></Shape>
+          <Shape><Polygon POINTS="183 32 186 78 256 78 261 32"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
