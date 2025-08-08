@@ -23,12 +23,12 @@
                   WIDTH="938"
                   HEIGHT="1552">
         <TextBlock HPOS="106"
-                   VPOS="15"
+                   VPOS="7"
                    WIDTH="70"
-                   HEIGHT="46"
+                   HEIGHT="54"
                    ID="eSc_textblock_b554bcae"
                    TAGREFS="BT15">
-          <Shape><Polygon POINTS="106 15 106 61 176 61 176 15"/></Shape>
+          <Shape><Polygon POINTS="106 12 106 61 176 61 176 7"/></Shape>
           <TextLine ID="eSc_line_977a6d24"
                     TAGREFS="LT8"
                     BASELINE="124 48 163 47" 
@@ -47,11 +47,11 @@
         </TextBlock>
         <TextBlock HPOS="68"
                    VPOS="39"
-                   WIDTH="840"
-                   HEIGHT="1275"
+                   WIDTH="845"
+                   HEIGHT="1293"
                    ID="eSc_textblock_b2aca4ca"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="68 58 78 1314 908 1304 906 39"/></Shape>
+          <Shape><Polygon POINTS="68 58 75 1332 913 1301 906 39"/></Shape>
           <TextLine ID="eSc_line_38513d97"
                     TAGREFS="LT8"
                     BASELINE="88 94 324 88 736 85" 
@@ -285,12 +285,12 @@
                     WIDTH="771"
                     HEIGHT="59">
             <Shape><Polygon POINTS="95 824 164 819 213 823 214 823 238 817 251 822 252 822 253 822 265 817 365 822 366 822 367 822 382 816 453 821 454 821 455 821 465 816 503 816 517 821 518 821 519 821 563 817 633 820 634 820 635 820 645 815 663 819 664 819 686 814 704 819 705 819 757 814 781 819 782 819 818 815 708 802 865 807 693 774 805 776 639 776 622 765 621 765 620 765 619 765 618 765 603 771 569 765 568 765 522 775 503 771 502 771 501 771 492 776 473 766 472 766 445 766 444 766 443 766 415 776 402 772 401 772 400 772 379 778 349 767 348 767 347 767 346 767 339 771 326 767 325 767 324 767 214 768 213 768 212 768 201 776 179 776 165 768 164 768 163 768 151 773 125 768 124 768 94 769 95 812"/></Shape>
-            <String CONTENT="61"
+            <String CONTENT="Et sacrifice à Dieu fut amené"
                     HPOS="94"
                     VPOS="765"
                     WIDTH="771"
                     HEIGHT="59"
-                    WC="0.9993768334388733"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_380abc4a"
                     TAGREFS="LT8"
@@ -443,13 +443,13 @@
                     WC="0.9822497305117155"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="825"
+        <TextBlock HPOS="809"
                    VPOS="1290"
-                   WIDTH="85"
-                   HEIGHT="58"
+                   WIDTH="114"
+                   HEIGHT="74"
                    ID="eSc_textblock_7797ed7a"
                    TAGREFS="BT17">
-          <Shape><Polygon POINTS="825 1290 825 1348 910 1348 910 1290"/></Shape>
+          <Shape><Polygon POINTS="825 1290 809 1364 923 1353 910 1290"/></Shape>
           <TextLine ID="eSc_line_574bb311"
                     TAGREFS="LT8"
                     BASELINE="838 1331 900 1331" 
