@@ -21,38 +21,6 @@
                   VPOS="0"
                   WIDTH="2198"
                   HEIGHT="3484">
-        <TextBlock HPOS="675"
-                   VPOS="1129"
-                   WIDTH="248"
-                   HEIGHT="148"
-                   ID="eSc_textblock_4d1f9023"
-                   TAGREFS="BT13">
-          <Shape><Polygon POINTS="675 1129 675 1277 923 1277 923 1129"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="687"
-                   VPOS="2011"
-                   WIDTH="248"
-                   HEIGHT="95"
-                   ID="eSc_textblock_2daa3462"
-                   TAGREFS="BT13">
-          <Shape><Polygon POINTS="687 2011 687 2106 935 2106 935 2011"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="675"
-                   VPOS="2429"
-                   WIDTH="264"
-                   HEIGHT="100"
-                   ID="eSc_textblock_43880395"
-                   TAGREFS="BT13">
-          <Shape><Polygon POINTS="675 2429 675 2529 939 2529 939 2429"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="683"
-                   VPOS="2553"
-                   WIDTH="272"
-                   HEIGHT="116"
-                   ID="eSc_textblock_3af1b23b"
-                   TAGREFS="BT13">
-          <Shape><Polygon POINTS="683 2553 683 2669 955 2669 955 2553"/></Shape>
-        </TextBlock>
         <TextBlock HPOS="919"
                    VPOS="291"
                    WIDTH="1260"
@@ -60,8 +28,6 @@
                    ID="eSc_textblock_c7e45c3a"
                    TAGREFS="BT12">
           <Shape><Polygon POINTS="919 291 931 2729 2179 2701 2179 291"/></Shape>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_15779844"
                     TAGREFS="LT8"
                     BASELINE="950 402 1915 406 2158 416" 
@@ -437,6 +403,14 @@
                     HEIGHT="213"
                     ></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="675"
+                   VPOS="1129"
+                   WIDTH="248"
+                   HEIGHT="148"
+                   ID="eSc_textblock_4d1f9023"
+                   TAGREFS="BT13">
+          <Shape><Polygon POINTS="675 1129 675 1277 923 1277 923 1129"/></Shape>
           <TextLine ID="eSc_line_9862e0f2"
                     TAGREFS="LT8"
                     BASELINE="714 1221 900 1225" 
@@ -452,6 +426,14 @@
                     HEIGHT="131"
                     ></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="687"
+                   VPOS="2011"
+                   WIDTH="248"
+                   HEIGHT="95"
+                   ID="eSc_textblock_2daa3462"
+                   TAGREFS="BT13">
+          <Shape><Polygon POINTS="687 2011 687 2106 935 2106 935 2011"/></Shape>
           <TextLine ID="eSc_line_7610bf66"
                     TAGREFS="LT8"
                     BASELINE="714 2074 899 2076" 
@@ -467,6 +449,14 @@
                     HEIGHT="99"
                     WC="0.8936846057573954"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="675"
+                   VPOS="2429"
+                   WIDTH="264"
+                   HEIGHT="100"
+                   ID="eSc_textblock_43880395"
+                   TAGREFS="BT13">
+          <Shape><Polygon POINTS="675 2429 675 2529 939 2529 939 2429"/></Shape>
           <TextLine ID="eSc_line_2489d58c"
                     TAGREFS="LT8"
                     BASELINE="712 2498 929 2492" 
@@ -482,6 +472,14 @@
                     HEIGHT="126"
                     ></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="683"
+                   VPOS="2553"
+                   WIDTH="272"
+                   HEIGHT="116"
+                   ID="eSc_textblock_3af1b23b"
+                   TAGREFS="BT13">
+          <Shape><Polygon POINTS="683 2553 683 2669 955 2669 955 2553"/></Shape>
           <TextLine ID="eSc_line_4653c6f8"
                     TAGREFS="LT8"
                     BASELINE="718 2618 921 2622" 
