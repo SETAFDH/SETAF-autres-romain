@@ -438,10 +438,10 @@
         <TextBlock HPOS="88"
                    VPOS="3"
                    WIDTH="85"
-                   HEIGHT="49"
+                   HEIGHT="59"
                    ID="eSc_textblock_b46a8090"
                    TAGREFS="BT15">
-          <Shape><Polygon POINTS="88 3 88 52 173 52 173 3"/></Shape>
+          <Shape><Polygon POINTS="88 3 88 60 173 62 173 3"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

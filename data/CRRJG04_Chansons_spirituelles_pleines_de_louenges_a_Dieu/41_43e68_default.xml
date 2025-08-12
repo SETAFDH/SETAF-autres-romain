@@ -45,13 +45,13 @@
                     WC="0.9999452829360962"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="75"
+        <TextBlock HPOS="70"
                    VPOS="80"
-                   WIDTH="848"
-                   HEIGHT="1247"
+                   WIDTH="853"
+                   HEIGHT="1253"
                    ID="eSc_textblock_ebc87189"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="91 80 75 1327 923 1316 907 83"/></Shape>
+          <Shape><Polygon POINTS="91 80 70 1333 923 1316 907 83"/></Shape>
           <TextLine ID="eSc_line_692f674a"
                     TAGREFS="LT8"
                     BASELINE="157 121 684 119" 
@@ -436,7 +436,7 @@
                    TAGREFS="BT10">
           <Shape><Polygon POINTS="98 1074 98 1182 206 1182 206 1074"/></Shape>
           <TextLine ID="eSc_line_f468ad32"
-                    TAGREFS="LT1074"
+                    TAGREFS="LT9"
                     BASELINE="115 1164 193 1164" 
                     HPOS="111"
                     VPOS="1081"
