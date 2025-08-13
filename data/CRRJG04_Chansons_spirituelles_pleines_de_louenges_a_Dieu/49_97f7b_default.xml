@@ -22,13 +22,13 @@
                   VPOS="0"
                   WIDTH="926"
                   HEIGHT="1540">
-        <TextBlock HPOS="50"
+        <TextBlock HPOS="30"
                    VPOS="47"
-                   WIDTH="843"
-                   HEIGHT="1253"
+                   WIDTH="863"
+                   HEIGHT="1268"
                    ID="eSc_textblock_560b091f"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="50 47 50 1300 893 1300 878 52"/></Shape>
+          <Shape><Polygon POINTS="50 47 30 1315 893 1300 878 52"/></Shape>
           <TextLine ID="eSc_line_67409bce"
                     TAGREFS="LT8"
                     BASELINE="813 51 855 53" 
