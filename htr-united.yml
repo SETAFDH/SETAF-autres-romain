@@ -70,9 +70,9 @@ characters:
   - E
   - '&'
   - C
-  - ’
   - ́
   - ̃
+  - ’
   - ':'
   - "'"
   - D
@@ -132,8 +132,8 @@ characters:
   - U
   - ͥ
   - ꝙ
-  - ;
   - ͬ
+  - ;
   - ꝫ
   - ẞ
   mode: NFD
@@ -169,11 +169,11 @@ transcription-guidelines: >-
   our rules is available on HAL (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/SETAF-autres-romain
 volume:
-- count: 490975
+- count: 490973
   metric: characters
 - count: 671
   metric: files
-- count: 20451
+- count: 20452
   metric: lines
 - count: 3902
   metric: regions
