@@ -37,12 +37,12 @@
                     WIDTH="61"
                     HEIGHT="42">
             <Shape><Polygon POINTS="130 73 130 85 191 79 191 73 191 43 130 43 130 73"/></Shape>
-            <String CONTENT="50"
+            <String CONTENT="90"
                     HPOS="130"
                     VPOS="43"
                     WIDTH="61"
                     HEIGHT="42"
-                    WC="0.9997778236865997"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="89"
@@ -60,12 +60,12 @@
                     WIDTH="86"
                     HEIGHT="80">
             <Shape><Polygon POINTS="170 794 132 758 132 757 131 757 130 757 128 757 105 760 105 821 105 837 191 833 191 821 191 820 190 794"/></Shape>
-            <String CONTENT="I"
+            <String CONTENT="N"
                     HPOS="105"
                     VPOS="757"
                     WIDTH="86"
                     HEIGHT="80"
-                    WC="0.9997498393058777"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="60"
@@ -83,12 +83,12 @@
                     WIDTH="455"
                     HEIGHT="56">
             <Shape><Polygon POINTS="531 77 522 75 513 75 505 75 496 75 488 75 483 75 476 79 461 75 453 75 445 75 436 75 427 75 419 75 410 75 402 75 396 75 384 82 351 82 342 75 342 75 333 75 324 75 316 75 308 75 293 81 281 76 281 76 280 76 237 82 126 82 94 71 93 110 92 122 98 127 99 127 100 127 101 127 140 122 283 127 284 127 285 127 299 122 319 127 320 127 321 127 346 123 360 127 360 127 361 127 362 127 376 123 403 127 403 127 437 123 446 127 446 127 447 127 470 123 545 127 547 112 547 83 538 79 531 77"/></Shape>
-            <String CONTENT="Du cueur cela n’abonde,"
+            <String CONTENT="Du cueur cela n&#x27;abonde,"
                     HPOS="92"
                     VPOS="71"
                     WIDTH="455"
                     HEIGHT="56"
-                    WC="0.9911514054174009"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_29f0c799"
                     TAGREFS="LT8"
@@ -98,12 +98,12 @@
                     WIDTH="513"
                     HEIGHT="50">
             <Shape><Polygon POINTS="604 133 540 124 539 124 538 124 519 133 418 133 397 124 397 124 396 124 395 124 369 133 354 124 354 124 353 124 352 124 331 125 330 125 329 125 318 133 291 125 290 125 289 125 288 125 272 130 251 125 250 125 250 125 249 125 234 132 214 126 213 126 213 126 212 126 211 126 201 132 178 129 177 129 177 129 164 133 146 126 146 126 145 126 94 128 95 160 95 174 607 174 607 158 606 146 604 133"/></Shape>
-            <String CONTENT="Mait c’eſt la chair qui ment."
+            <String CONTENT="Mait c&#x27;eſt la chair qui ment."
                     HPOS="94"
                     VPOS="124"
                     WIDTH="513"
                     HEIGHT="50"
-                    WC="0.9744323409836868"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_30ce8d9e"
                     TAGREFS="LT8"
@@ -263,12 +263,12 @@
                     WIDTH="546"
                     HEIGHT="70">
             <Shape><Polygon POINTS="198 779 198 789 207 796 239 791 249 800 255 800 277 788 286 794 292 794 300 788 336 794 371 788 430 796 445 788 507 797 526 787 548 798 570 791 579 798 610 791 742 797 743 745 686 745 671 730 622 747 458 747 416 734 372 744 301 731 197 731 198 779"/></Shape>
-            <String CONTENT="Oſtre bon Pere tout-puiſſant."
+            <String CONTENT="Oſtre bon Pere tout-puiſſant,"
                     HPOS="197"
                     VPOS="730"
                     WIDTH="546"
                     HEIGHT="70"
-                    WC="0.9811629324123777"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_1a342c8d"
                     TAGREFS="LT8"
@@ -278,12 +278,12 @@
                     WIDTH="517"
                     HEIGHT="62">
             <Shape><Polygon POINTS="190 833 221 845 222 845 224 846 304 846 304 845 305 845 323 836 353 845 354 845 355 845 356 845 381 836 432 842 434 842 496 836 516 843 517 843 519 843 520 843 521 843 533 836 542 842 543 842 545 842 546 842 641 837 660 847 662 847 663 849 706 849 707 825 706 797 577 797 570 791 570 789 569 789 568 789 566 789 516 794 497 788 496 788 494 788 408 794 353 787 351 787 191 792 191 821"/></Shape>
-            <String CONTENT="Qui gounernes ta creature,"
+            <String CONTENT="Qui gouuernes ta creature,"
                     HPOS="190"
                     VPOS="787"
                     WIDTH="517"
                     HEIGHT="62"
-                    WC="0.9918866547254416"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_e751911e"
                     TAGREFS="LT8"
@@ -338,12 +338,12 @@
                     WIDTH="611"
                     HEIGHT="54">
             <Shape><Polygon POINTS="103 1018 103 1034 164 1035 165 1035 166 1035 167 1035 177 1028 224 1033 225 1033 268 1028 285 1035 286 1035 287 1035 334 1034 335 1034 336 1034 336 1034 343 1028 365 1032 366 1032 421 1027 461 1034 462 1034 519 1026 562 1026 592 1033 593 1033 647 1026 678 1026 690 1034 691 1034 692 1034 693 1034 714 1029 714 1016 712 990 690 985 689 985 688 985 687 985 682 990 599 990 571 985 570 985 569 985 568 985 561 990 512 990 451 981 450 981 406 986 362 981 361 981 360 981 348 986 309 981 308 981 307 981 287 992 269 992 261 984 260 984 259 984 258 984 257 984 242 992 189 992 172 982 171 982 171 982 170 982 155 989 121 982 120 982 119 982 103 988 103 1018"/></Shape>
-            <String CONTENT="Que noz eſpritz ſoyent nourrix,"
+            <String CONTENT="Que noz eſpritz ſoyent nourriz,"
                     HPOS="103"
                     VPOS="981"
                     WIDTH="611"
                     HEIGHT="54"
-                    WC="0.9984657995162471"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_0f0c5b57"
                     TAGREFS="LT8"
@@ -451,12 +451,12 @@
                     WIDTH="71"
                     HEIGHT="58">
             <Shape><Polygon POINTS="862 1314 854 1313 848 1313 847 1313 846 1313 845 1313 845 1314 834 1325 824 1326 821 1344 821 1353 821 1365 836 1371 837 1371 837 1371 838 1371 852 1364 891 1369 892 1351 890 1325 866 1314 862 1314"/></Shape>
-            <String CONTENT="De"
+            <String CONTENT="De¬"
                     HPOS="821"
                     VPOS="1313"
                     WIDTH="71"
                     HEIGHT="58"
-                    WC="0.9918423593044281"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
