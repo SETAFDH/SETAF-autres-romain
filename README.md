@@ -37,32 +37,20 @@ Les transcriptions sont [CC-BY](https://creativecommons.org/licenses/by/4.0), et
 
 ## Citer le dépôt
 
-- Version `1.0`: Sonia Solfrini, _Données OCR et segmentation des imprimés de Jean Girard et autres (projet SETAF)_, version `1.0`, Genève, université de Genève, 2025, https://github.com/SETAFDH/SETAF-autres-romain.
+- Version `1.0`: Sonia Solfrini, Geneviève Gross, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira, Mylène Dejouy, Simon Gabay et Daniela Solfaroli Camillocci, _Données OCR et segmentation des imprimés de Jean Girard et autres (projet SETAF)_, version `1.0`, Genève, université de Genève, 2025-2026, https://github.com/SETAFDH/SETAF-autres-romain.
 
 ```bibtex
 @misc{solfrini_Girard_SETAF_2025,
-  author={Solfrini, Sonia},
+  author={Solfrini, Sonia and Gross, Geneviève and Beaulnes, Pierre-Olivier and Marques Oliveira, Aurélia and Dejouy, Mylène and Gabay, Simon and Solfaroli Camillocci, Daniela},
   title={Données OCR et segmentation des imprimés de Jean Girard et autres (projet SETAF)},
   version={1.0},
   address={Genève},
   publisher={université de Genève},
-  year={2025},
+  year={2025-2026},
   url={https://github.com/SETAFDH/SETAF-autres-romain},
 }
 ```
 
 ## Citer le projet
 
-Sonia Solfrini, Geneviève Gross, Brigitte Roux, Nathalie Szczech et Daniela Solfaroli Camillocci, _SETAF (S’en tenir aux 'Faits de Jésus Christ et du pape'). Les imprimés évangéliques romands et les pratiques de communication religieuse à l’époque de la Réforme_, Genève, université de Genève, 2023, https://www.unige.ch/setaf.
-
-```bibtex
-@misc{solfrini_SETAF_2023,
-  author={Solfrini, Sonia and Gross, Geneviève and Roux, Brigitte and Szczech, Nathalie and Solfaroli Camillocci, Daniela},
-  title={SETAF (S’en tenir aux 'Faits de Jésus Christ et du pape'). Les imprimés évangéliques romands et les pratiques de communication religieuse à l’époque de la Réforme},
-  address={Genève},
-  publisher={université de Genève},
-  year={2023},
-  url={https://www.unige.ch/setaf},
-  note={numéro de projet FNS : 205056},
-}
-```
+à venir
