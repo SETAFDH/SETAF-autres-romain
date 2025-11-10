@@ -22,6 +22,29 @@
                   VPOS="0"
                   WIDTH="795"
                   HEIGHT="1187">
+        <TextBlock HPOS="655"
+                   VPOS="41"
+                   WIDTH="49"
+                   HEIGHT="47"
+                   ID="eSc_textblock_e73a0564"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="655 41 655 88 704 88 704 41"/></Shape>
+          <TextLine ID="eSc_line_d43c2184"
+                    TAGREFS="LT8"
+                    BASELINE="663 79 691 78" 
+                    HPOS="661"
+                    VPOS="51"
+                    WIDTH="30"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="688 56 682 54 675 53 670 51 661 51 663 79 663 89 690 89 691 78 690 56 688 56"/></Shape>
+            <String CONTENT="31"
+                    HPOS="661"
+                    VPOS="51"
+                    WIDTH="30"
+                    HEIGHT="38"
+                    WC="0.9996095895767212"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="186"
                    VPOS="39"
                    WIDTH="354"
@@ -83,12 +106,12 @@
                     WIDTH="582"
                     HEIGHT="68">
             <Shape><Polygon POINTS="121 91 117 91 118 121 118 142 255 140 280 156 281 156 282 157 313 157 313 156 314 156 348 143 370 152 371 152 372 152 393 146 425 156 426 156 426 157 478 157 478 156 479 156 487 151 495 154 496 154 497 154 508 149 535 154 536 154 537 154 548 149 566 154 567 154 568 154 580 149 616 154 617 154 628 150 637 156 638 156 639 156 699 151 699 119 698 90 656 89 655 89 637 98 624 93 623 93 622 93 612 96 587 89 586 89 585 89 584 89 574 95 558 94 557 94 556 94 550 98 464 95 463 95 455 99 413 99 399 92 398 92 397 92 389 98 380 95 379 95 378 95 369 98 360 94 359 94 358 94 342 96 333 90 332 90 304 89 238 89 237 89 236 89 221 99 214 99 197 89 196 89 195 89 182 89 181 89 180 89 166 96 129 89 124 91"/></Shape>
-            <String CONTENT="Oraiſon du fielle au Seigneur, implorant la"
+            <String CONTENT="Oraiſon du fidelle au Seigneur, implorant la"
                     HPOS="117"
                     VPOS="89"
                     WIDTH="582"
                     HEIGHT="68"
-                    WC="0.9733610929444779"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_de5601bf"
                     TAGREFS="LT10"
@@ -113,12 +136,12 @@
                     WIDTH="306"
                     HEIGHT="55">
             <Shape><Polygon POINTS="128 204 127 212 432 212 433 201 432 159 370 157 369 157 368 157 367 157 347 169 335 158 335 157 334 157 333 157 332 157 277 158 276 158 275 158 253 173 190 173 176 166 175 166 174 166 173 166 172 166 172 167 166 173 147 173 128 167 128 204"/></Shape>
-            <String CONTENT="Reateur de P&#x27;vniuers,"
+            <String CONTENT="Reateur de l&#x27;vniuers,"
                     HPOS="127"
                     VPOS="157"
                     WIDTH="306"
                     HEIGHT="55"
-                    WC="0.9475454063642592"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_505d12b9"
                     TAGREFS="LT8"
@@ -323,12 +346,12 @@
                     WIDTH="306"
                     HEIGHT="46">
             <Shape><Polygon POINTS="83 749 83 755 104 760 105 760 106 760 106 760 118 756 137 760 137 760 152 757 157 760 157 761 157 761 158 761 159 762 188 762 188 761 189 761 190 761 193 758 217 761 218 761 219 761 238 755 263 760 263 760 291 754 305 759 306 759 306 759 307 759 308 759 314 755 317 757 317 758 318 758 318 758 339 759 339 759 340 759 341 759 347 755 367 759 368 759 389 753 389 747 388 716 365 716 364 716 364 716 363 716 363 717 358 721 296 720 296 720 295 720 294 720 288 724 253 720 252 720 232 724 207 722 207 722 190 725 179 721 178 721 178 721 177 721 176 721 171 726 155 726 146 721 145 721 145 721 144 721 143 721 139 724 132 718 131 718 131 718 130 718 129 718 116 722 103 717 102 717 102 717 101 717 83 722 83 749"/></Shape>
-            <String CONTENT="OSeigneur ta verité"
+            <String CONTENT="O Seigneur ta verité"
                     HPOS="83"
                     VPOS="716"
                     WIDTH="306"
                     HEIGHT="46"
-                    WC="0.998569542169571"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_d8f8570d"
                     TAGREFS="LT8"
@@ -398,12 +421,12 @@
                     WIDTH="361"
                     HEIGHT="53">
             <Shape><Polygon POINTS="89 958 98 963 148 963 194 954 220 962 258 954 265 961 289 955 317 963 329 955 388 955 417 963 424 955 449 954 450 921 429 913 410 920 397 911 379 915 354 911 347 916 322 911 305 917 291 911 243 910 220 920 113 920 91 912 89 958"/></Shape>
-            <String CONTENT="Qui à toy ſ’eſt preſentee¬"
+            <String CONTENT="Qui à toy ſ’eſt preſentee."
                     HPOS="89"
                     VPOS="910"
                     WIDTH="361"
                     HEIGHT="53"
-                    WC="0.9923514105655529"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_462a8215"
                     TAGREFS="LT8"
@@ -449,29 +472,6 @@
                     WIDTH="302"
                     HEIGHT="66"
                     WC="0.9363292564045299"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="655"
-                   VPOS="41"
-                   WIDTH="49"
-                   HEIGHT="47"
-                   ID="eSc_textblock_e73a0564"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="655 41 655 88 704 88 704 41"/></Shape>
-          <TextLine ID="eSc_line_d43c2184"
-                    TAGREFS="LT8"
-                    BASELINE="663 79 691 78" 
-                    HPOS="661"
-                    VPOS="51"
-                    WIDTH="30"
-                    HEIGHT="38">
-            <Shape><Polygon POINTS="688 56 682 54 675 53 670 51 661 51 663 79 663 89 690 89 691 78 690 56 688 56"/></Shape>
-            <String CONTENT="31"
-                    HPOS="661"
-                    VPOS="51"
-                    WIDTH="30"
-                    HEIGHT="38"
-                    WC="0.9996095895767212"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

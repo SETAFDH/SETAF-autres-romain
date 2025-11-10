@@ -22,6 +22,29 @@
                   VPOS="0"
                   WIDTH="799"
                   HEIGHT="1188">
+        <TextBlock HPOS="674"
+                   VPOS="30"
+                   WIDTH="65"
+                   HEIGHT="62"
+                   ID="eSc_textblock_97421950"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="674 30 674 92 739 92 739 30"/></Shape>
+          <TextLine ID="eSc_line_4f50a921"
+                    TAGREFS="LT8"
+                    BASELINE="678 79 719 79" 
+                    HPOS="677"
+                    VPOS="32"
+                    WIDTH="41"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="677 78 677 103 718 103 718 78 717 32 677 32 677 78"/></Shape>
+            <String CONTENT="39"
+                    HPOS="677"
+                    VPOS="32"
+                    WIDTH="41"
+                    HEIGHT="71"
+                    ></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="185"
                    VPOS="16"
                    WIDTH="355"
@@ -113,12 +136,12 @@
                     WIDTH="531"
                     HEIGHT="66">
             <Shape><Polygon POINTS="130 271 131 282 144 279 155 286 160 286 167 279 231 279 274 288 285 279 298 288 316 288 331 278 422 285 468 277 487 286 504 278 515 287 581 287 598 276 659 285 660 235 634 222 592 222 587 228 579 223 479 223 463 236 444 226 407 226 384 239 289 239 274 231 270 231 259 240 206 240 199 233 172 239 129 233 130 271"/></Shape>
-            <String CONTENT="Mlut en toy mon Sauueur i&#x27;ay trouué,"
+            <String CONTENT="Alut en toy mon Sauueur i&#x27;ay trouué,"
                     HPOS="129"
                     VPOS="222"
                     WIDTH="531"
                     HEIGHT="66"
-                    WC="0.9678715612437274"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_9fbc4173"
                     TAGREFS="LT8"
@@ -203,12 +226,12 @@
                     WIDTH="622"
                     HEIGHT="46">
             <Shape><Polygon POINTS="75 505 75 513 116 518 117 518 118 518 130 514 218 514 225 518 225 518 226 518 227 518 260 514 304 514 316 518 316 518 317 518 318 518 330 514 351 518 351 518 421 514 484 519 484 519 485 519 495 515 530 519 530 519 561 515 590 515 597 519 598 519 598 519 599 520 696 520 697 510 696 485 606 483 596 477 596 477 595 477 576 475 575 475 575 475 556 484 540 479 540 479 539 479 513 484 495 478 494 478 493 478 493 478 492 478 482 484 456 475 455 475 420 475 419 475 419 475 402 483 382 480 382 480 381 480 374 484 325 484 312 475 312 475 311 475 260 474 249 474 248 474 248 474 247 474 233 483 176 483 161 474 161 474 160 474 75 474 75 505"/></Shape>
-            <String CONTENT="Mõ Dieu, mõ Dieu vueilles moy ſetourir,"
+            <String CONTENT="Mõ Dieu, mõ Dieu vueilles moy ſecourir,"
                     HPOS="75"
                     VPOS="474"
                     WIDTH="622"
                     HEIGHT="46"
-                    WC="0.9690900154230071"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_5cdc90b7"
                     TAGREFS="LT8"
@@ -278,12 +301,12 @@
                     WIDTH="622"
                     HEIGHT="65">
             <Shape><Polygon POINTS="682 785 580 785 579 785 564 793 539 788 538 788 501 795 434 795 422 788 421 788 420 788 419 788 402 794 379 791 363 793 351 789 350 789 349 789 304 793 262 785 261 785 231 793 198 793 176 783 175 783 119 788 118 788 106 793 81 792 77 795 76 821 75 832 100 836 101 836 144 833 151 838 152 838 153 838 154 838 163 833 231 833 256 842 257 842 258 842 269 838 283 845 284 845 285 845 302 837 330 835 357 846 358 846 359 846 382 834 417 837 433 846 434 846 435 846 464 834 480 842 481 842 482 842 500 842 509 847 510 847 695 848 697 823 697 795 694 791"/></Shape>
-            <String CONTENT="Sur le chant, Tant que viuray en aage floril"
+            <String CONTENT="Sur le chant, Tant que viuray en aage floriſ"
                     HPOS="75"
                     VPOS="783"
                     WIDTH="622"
                     HEIGHT="65"
-                    WC="0.9747157489711588"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_e50cdde8"
                     TAGREFS="LT10"
@@ -361,29 +384,6 @@
                     WC="0.9493667671554967"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="674"
-                   VPOS="30"
-                   WIDTH="65"
-                   HEIGHT="62"
-                   ID="eSc_textblock_97421950"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="674 30 674 92 739 92 739 30"/></Shape>
-          <TextLine ID="eSc_line_4f50a921"
-                    TAGREFS="LT8"
-                    BASELINE="678 79 719 79" 
-                    HPOS="677"
-                    VPOS="32"
-                    WIDTH="41"
-                    HEIGHT="71">
-            <Shape><Polygon POINTS="677 78 677 103 718 103 718 78 717 32 677 32 677 78"/></Shape>
-            <String CONTENT="33"
-                    HPOS="677"
-                    VPOS="32"
-                    WIDTH="41"
-                    HEIGHT="71"
-                    WC="0.9998672902584076"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="65"
                    VPOS="899"
                    WIDTH="73"
@@ -422,12 +422,12 @@
                     WIDTH="93"
                     HEIGHT="59">
             <Shape><Polygon POINTS="461 1099 461 1118 472 1122 472 1122 473 1122 474 1122 499 1116 531 1123 532 1123 553 1122 553 1096 552 1070 528 1064 528 1064 497 1071 474 1068 473 1068 472 1068 460 1072 461 1099"/></Shape>
-            <String CONTENT="C-iiii."
+            <String CONTENT="C .iiii."
                     HPOS="460"
                     VPOS="1064"
                     WIDTH="93"
                     HEIGHT="59"
-                    WC="0.9954760330063956"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

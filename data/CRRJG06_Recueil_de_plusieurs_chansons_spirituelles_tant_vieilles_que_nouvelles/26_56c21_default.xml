@@ -22,6 +22,52 @@
                   VPOS="0"
                   WIDTH="805"
                   HEIGHT="1185">
+        <TextBlock HPOS="679"
+                   VPOS="52"
+                   WIDTH="71"
+                   HEIGHT="59"
+                   ID="eSc_textblock_8a59c868"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="679 52 679 111 750 111 750 52"/></Shape>
+          <TextLine ID="eSc_line_126f1f27"
+                    TAGREFS="LT8"
+                    BASELINE="693 86 731 89" 
+                    HPOS="691"
+                    VPOS="50"
+                    WIDTH="29"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="712 50 698 52 696 54 693 86 691 92 715 97 717 89 720 52 716 52"/></Shape>
+            <String CONTENT="25"
+                    HPOS="691"
+                    VPOS="50"
+                    WIDTH="29"
+                    HEIGHT="47"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="206"
+                   VPOS="38"
+                   WIDTH="370"
+                   HEIGHT="57"
+                   ID="eSc_textblock_3778c8ff"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="206 38 206 95 576 95 576 38"/></Shape>
+          <TextLine ID="eSc_line_4e116ff8"
+                    TAGREFS="LT10"
+                    BASELINE="220 78 563 84" 
+                    HPOS="212"
+                    VPOS="50"
+                    WIDTH="351"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="514 51 513 51 476 55 462 52 461 52 460 52 459 52 455 56 427 55 423 51 423 50 422 50 421 50 420 50 409 55 398 50 395 50 390 50 376 52 357 50 356 50 349 50 343 50 339 50 323 55 305 51 304 51 303 51 297 54 291 50 290 50 289 50 288 50 273 55 269 51 268 51 248 50 244 50 212 54 238 82 237 93 246 98 247 98 248 98 249 98 257 90 267 90 275 96 276 96 277 96 286 91 317 98 318 98 319 98 327 91 333 95 334 95 335 95 346 90 364 94 365 94 366 94 367 94 372 90 397 90 405 94 406 94 407 94 419 92 423 95 423 96 424 96 425 96 426 96 435 90 442 98 443 98 444 98 445 98 463 92 471 99 472 99 472 100 490 100 490 99 511 92 521 99 522 99 523 100 563 100 563 84 563 57 530 57 521 51"/></Shape>
+            <String CONTENT="SPIRITVELLES."
+                    HPOS="212"
+                    VPOS="50"
+                    WIDTH="351"
+                    HEIGHT="50"
+                    WC="0.9996882447829614"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="99"
                    VPOS="91"
                    WIDTH="566"
@@ -112,12 +158,12 @@
                     WIDTH="403"
                     HEIGHT="45">
             <Shape><Polygon POINTS="114 325 114 333 283 331 305 337 306 337 306 337 307 337 318 331 324 337 324 337 324 337 325 337 338 338 339 339 353 339 353 338 354 338 355 338 355 337 360 332 372 338 373 338 374 339 421 339 421 338 422 338 422 338 429 334 516 338 517 327 517 300 489 295 488 295 488 295 487 295 487 296 480 303 432 303 413 295 412 295 411 295 411 295 410 295 401 303 350 303 324 294 324 294 305 294 304 294 303 294 287 302 279 296 278 296 277 296 277 296 254 300 226 294 225 294 225 294 216 299 186 296 185 296 185 296 167 300 157 294 156 294 156 294 155 294 114 294 114 325"/></Shape>
-            <String CONTENT="Donne nous o pere eternel,"
+            <String CONTENT="Donne nous ò pere eternel,"
                     HPOS="114"
                     VPOS="294"
                     WIDTH="403"
                     HEIGHT="45"
-                    WC="0.9912202037297763"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_35f9d750"
                     TAGREFS="LT8"
@@ -403,52 +449,6 @@
                     WIDTH="386"
                     HEIGHT="74"
                     WC="0.9909513501020578"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="206"
-                   VPOS="38"
-                   WIDTH="370"
-                   HEIGHT="57"
-                   ID="eSc_textblock_3778c8ff"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="206 38 206 95 576 95 576 38"/></Shape>
-          <TextLine ID="eSc_line_4e116ff8"
-                    TAGREFS="LT10"
-                    BASELINE="220 78 563 84" 
-                    HPOS="212"
-                    VPOS="50"
-                    WIDTH="351"
-                    HEIGHT="50">
-            <Shape><Polygon POINTS="514 51 513 51 476 55 462 52 461 52 460 52 459 52 455 56 427 55 423 51 423 50 422 50 421 50 420 50 409 55 398 50 395 50 390 50 376 52 357 50 356 50 349 50 343 50 339 50 323 55 305 51 304 51 303 51 297 54 291 50 290 50 289 50 288 50 273 55 269 51 268 51 248 50 244 50 212 54 238 82 237 93 246 98 247 98 248 98 249 98 257 90 267 90 275 96 276 96 277 96 286 91 317 98 318 98 319 98 327 91 333 95 334 95 335 95 346 90 364 94 365 94 366 94 367 94 372 90 397 90 405 94 406 94 407 94 419 92 423 95 423 96 424 96 425 96 426 96 435 90 442 98 443 98 444 98 445 98 463 92 471 99 472 99 472 100 490 100 490 99 511 92 521 99 522 99 523 100 563 100 563 84 563 57 530 57 521 51"/></Shape>
-            <String CONTENT="SPIRITVELLES."
-                    HPOS="212"
-                    VPOS="50"
-                    WIDTH="351"
-                    HEIGHT="50"
-                    WC="0.9996882447829614"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="679"
-                   VPOS="52"
-                   WIDTH="71"
-                   HEIGHT="59"
-                   ID="eSc_textblock_8a59c868"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="679 52 679 111 750 111 750 52"/></Shape>
-          <TextLine ID="eSc_line_126f1f27"
-                    TAGREFS="LT8"
-                    BASELINE="693 86 731 89" 
-                    HPOS="691"
-                    VPOS="50"
-                    WIDTH="29"
-                    HEIGHT="47">
-            <Shape><Polygon POINTS="712 50 698 52 696 54 693 86 691 92 715 97 717 89 720 52 716 52"/></Shape>
-            <String CONTENT="2j"
-                    HPOS="691"
-                    VPOS="50"
-                    WIDTH="29"
-                    HEIGHT="47"
-                    WC="0.9999280571937561"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

@@ -45,6 +45,29 @@
                     WC="0.9986973106861115"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="274"
+                   VPOS="56"
+                   WIDTH="293"
+                   HEIGHT="47"
+                   ID="eSc_textblock_83c15037"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="274 56 274 103 567 103 567 56"/></Shape>
+          <TextLine ID="eSc_line_59df90d6"
+                    TAGREFS="LT10"
+                    BASELINE="295 91 538 88" 
+                    HPOS="295"
+                    VPOS="56"
+                    WIDTH="243"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="527 59 512 63 492 63 479 57 472 57 466 56 461 56 452 63 423 63 413 58 412 58 382 63 375 57 375 56 374 56 373 56 333 57 318 63 295 61 295 91 295 101 538 97 538 88 536 61 531 59"/></Shape>
+            <String CONTENT="CHANSONS"
+                    HPOS="295"
+                    VPOS="56"
+                    WIDTH="243"
+                    HEIGHT="45"
+                    WC="0.9938861206173897"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="123"
                    VPOS="107"
                    WIDTH="534"
@@ -240,12 +263,12 @@
                     WIDTH="379"
                     HEIGHT="50">
             <Shape><Polygon POINTS="129 610 130 626 149 619 164 619 170 624 171 624 172 624 172 624 173 624 174 624 174 623 179 619 195 623 195 623 196 623 220 619 239 626 240 626 241 626 241 626 250 622 259 625 260 625 260 625 261 625 275 618 323 618 334 623 335 623 335 623 336 623 344 618 349 623 349 624 350 624 350 624 379 625 380 625 381 625 402 617 410 625 410 625 411 625 412 625 443 625 443 625 477 617 505 624 507 606 504 577 496 582 444 582 380 576 379 576 379 576 360 584 345 584 318 577 318 577 317 577 316 577 316 577 309 581 291 578 290 578 289 578 289 578 278 584 255 580 254 580 253 580 253 580 247 585 207 578 206 578 205 578 189 586 158 586 151 579 151 579 150 579 149 579 149 579 128 579 129 610"/></Shape>
-            <String CONTENT="Tar elle tout bruſlé &amp; ars:"
+            <String CONTENT="Par elle tout bruſlé &amp; ars:"
                     HPOS="128"
                     VPOS="576"
                     WIDTH="379"
                     HEIGHT="50"
-                    WC="0.9511416746037347"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_008889f9"
                     TAGREFS="LT8"
@@ -426,29 +449,6 @@
                     WIDTH="224"
                     HEIGHT="68"
                     WC="0.9801879184586662"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="274"
-                   VPOS="56"
-                   WIDTH="293"
-                   HEIGHT="47"
-                   ID="eSc_textblock_83c15037"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="274 56 274 103 567 103 567 56"/></Shape>
-          <TextLine ID="eSc_line_59df90d6"
-                    TAGREFS="LT10"
-                    BASELINE="295 91 538 88" 
-                    HPOS="295"
-                    VPOS="56"
-                    WIDTH="243"
-                    HEIGHT="45">
-            <Shape><Polygon POINTS="527 59 512 63 492 63 479 57 472 57 466 56 461 56 452 63 423 63 413 58 412 58 382 63 375 57 375 56 374 56 373 56 333 57 318 63 295 61 295 91 295 101 538 97 538 88 536 61 531 59"/></Shape>
-            <String CONTENT="CHANSONS"
-                    HPOS="295"
-                    VPOS="56"
-                    WIDTH="243"
-                    HEIGHT="45"
-                    WC="0.9938861206173897"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
