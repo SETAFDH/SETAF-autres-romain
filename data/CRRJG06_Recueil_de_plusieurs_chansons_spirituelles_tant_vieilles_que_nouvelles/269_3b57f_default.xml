@@ -323,21 +323,6 @@
                     HEIGHT="56"
                     ></String>
           </TextLine>
-          <TextLine ID="eSc_line_bb2a5753"
-                    TAGREFS="LT8"
-                    BASELINE="126 811 653 805" 
-                    HPOS="124"
-                    VPOS="766"
-                    WIDTH="527"
-                    HEIGHT="60">
-            <Shape><Polygon POINTS="415 768 386 777 339 771 323 777 288 770 281 778 228 778 222 772 218 772 204 780 191 780 183 771 137 771 124 777 125 820 211 826 269 818 342 818 355 823 388 817 456 823 500 816 530 822 539 817 622 821 651 814 649 769 615 774 607 766 545 767 540 772 464 768 454 777 432 777 415 768"/></Shape>
-            <String CONTENT="A Loy qui eſt des ſages ordonnee,"
-                    HPOS="124"
-                    VPOS="766"
-                    WIDTH="527"
-                    HEIGHT="60"
-                    ></String>
-          </TextLine>
           <TextLine ID="eSc_line_b7d7391d"
                     TAGREFS="LT10"
                     BASELINE="290 770 438 768" 
@@ -352,6 +337,21 @@
                     WIDTH="148"
                     HEIGHT="43"
                     WC="0.9958070293068886"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_bb2a5753"
+                    TAGREFS="LT8"
+                    BASELINE="126 811 653 805" 
+                    HPOS="124"
+                    VPOS="766"
+                    WIDTH="527"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="415 768 386 777 339 771 323 777 288 770 281 778 228 778 222 772 218 772 204 780 191 780 183 771 137 771 124 777 125 820 211 826 269 818 342 818 355 823 388 817 456 823 500 816 530 822 539 817 622 821 651 814 649 769 615 774 607 766 545 767 540 772 464 768 454 777 432 777 415 768"/></Shape>
+            <String CONTENT="A Loy qui eſt des ſages ordonnee,"
+                    HPOS="124"
+                    VPOS="766"
+                    WIDTH="527"
+                    HEIGHT="60"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_62521545"
                     TAGREFS="LT8"

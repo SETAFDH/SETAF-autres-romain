@@ -218,21 +218,6 @@
                     HEIGHT="56"
                     ></String>
           </TextLine>
-          <TextLine ID="eSc_line_9e5480b2"
-                    TAGREFS="LT8"
-                    BASELINE="54 634 371 629" 
-                    HPOS="52"
-                    VPOS="594"
-                    WIDTH="317"
-                    HEIGHT="55">
-            <Shape><Polygon POINTS="53 633 53 641 79 646 87 640 122 640 128 646 164 649 183 639 214 648 224 639 241 644 253 638 279 647 369 646 369 598 358 594 348 601 309 601 286 594 276 601 250 594 232 603 183 603 174 596 155 603 148 596 110 596 87 601 72 597 52 603 53 633"/></Shape>
-            <String CONTENT="(O Dieu que i’adore)"
-                    HPOS="52"
-                    VPOS="594"
-                    WIDTH="317"
-                    HEIGHT="55"
-                    ></String>
-          </TextLine>
           <TextLine ID="eSc_line_419568a7"
                     TAGREFS="LT8"
                     BASELINE="100 473 350 470" 
@@ -292,6 +277,21 @@
                     WIDTH="288"
                     HEIGHT="44"
                     WC="0.982511568069458"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9e5480b2"
+                    TAGREFS="LT8"
+                    BASELINE="54 634 371 629" 
+                    HPOS="52"
+                    VPOS="594"
+                    WIDTH="317"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="53 633 53 641 79 646 87 640 122 640 128 646 164 649 183 639 214 648 224 639 241 644 253 638 279 647 369 646 369 598 358 594 348 601 309 601 286 594 276 601 250 594 232 603 183 603 174 596 155 603 148 596 110 596 87 601 72 597 52 603 53 633"/></Shape>
+            <String CONTENT="(O Dieu que i’adore)"
+                    HPOS="52"
+                    VPOS="594"
+                    WIDTH="317"
+                    HEIGHT="55"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_b9993d96"
                     TAGREFS="LT8"
