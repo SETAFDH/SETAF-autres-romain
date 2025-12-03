@@ -171,11 +171,11 @@ transcription-guidelines: >-
   our rules is available on HAL (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/SETAF-autres-romain
 volume:
-- count: 672051
+- count: 678764
   metric: characters
-- count: 991
+- count: 1003
   metric: files
-- count: 28776
+- count: 29096
   metric: lines
-- count: 5088
+- count: 5131
   metric: regions
