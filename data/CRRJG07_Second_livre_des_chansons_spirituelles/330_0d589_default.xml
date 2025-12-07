@@ -91,13 +91,13 @@
                     WC="0.997186972035302"></String>
           </TextLine>
           <TextLine ID="eSc_line_7026c3f1"
-                    TAGREFS="LT8"
+                    TAGREFS="LT10"
                     BASELINE="580 172 687 167" 
                     HPOS="576"
                     VPOS="134"
                     WIDTH="110"
                     HEIGHT="54">
-            <Shape><Polygon POINTS="579 171 579 188 664 188 664 187 665 187 686 179 686 166 683 135 576 134 579 171"/></Shape>
+            <Shape><Polygon POINTS="579 188 664 188 664 187 665 187 686 179 686 166 683 135 576 134 579 171"/></Shape>
             <String CONTENT="le pipy."
                     HPOS="576"
                     VPOS="134"
@@ -136,13 +136,13 @@
                     WC="0.9797441735863686"></String>
           </TextLine>
           <TextLine ID="eSc_line_75d16f89"
-                    TAGREFS="LT8"
+                    TAGREFS="LT10"
                     BASELINE="573 287 691 286" 
                     HPOS="572"
                     VPOS="250"
                     WIDTH="119"
                     HEIGHT="57">
-            <Shape><Polygon POINTS="684 257 677 255 671 254 670 253 668 256 645 256 631 250 631 250 630 250 629 250 617 256 608 251 608 251 607 251 606 251 572 251 573 287 573 302 592 297 615 307 616 307 616 307 617 307 618 307 627 299 635 307 636 307 637 307 637 307 656 307 656 307 666 305 667 305 668 305 668 305 677 297 691 297 691 286 689 257 684 257"/></Shape>
+            <Shape><Polygon POINTS="677 255 671 254 670 253 668 256 645 256 631 250 630 250 629 250 617 256 608 251 607 251 606 251 572 251 573 287 573 302 592 297 615 307 616 307 617 307 618 307 627 299 635 307 636 307 637 307 656 307 666 305 667 305 668 305 677 297 691 297 691 286 689 257 684 257"/></Shape>
             <String CONTENT="le pipy."
                     HPOS="572"
                     VPOS="250"
@@ -181,13 +181,13 @@
                     WC="0.9900941619506249"></String>
           </TextLine>
           <TextLine ID="eSc_line_8e3c825e"
-                    TAGREFS="LT8"
+                    TAGREFS="LT10"
                     BASELINE="566 403 695 403" 
                     HPOS="565"
                     VPOS="369"
                     WIDTH="129"
                     HEIGHT="84">
-            <Shape><Polygon POINTS="565 402 565 447 600 445 610 451 611 451 612 451 664 453 665 453 694 446 694 402 693 369 594 373 565 369 565 402"/></Shape>
+            <Shape><Polygon POINTS="565 447 600 445 610 451 611 451 612 451 664 453 665 453 694 446 694 402 693 369 594 373 565 369 565 402"/></Shape>
             <String CONTENT="le pipy."
                     HPOS="565"
                     VPOS="369"
@@ -361,29 +361,6 @@
                     WC="0.9881865801634612"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="80"
-                   VPOS="663"
-                   WIDTH="70"
-                   HEIGHT="93"
-                   ID="eSc_textblock_6ed5b498"
-                   TAGREFS="BT10">
-          <Shape><Polygon POINTS="80 663 80 756 150 756 150 663"/></Shape>
-          <TextLine ID="eSc_line_f9455971"
-                    TAGREFS="LT9"
-                    BASELINE="97 735 133 735" 
-                    HPOS="96"
-                    VPOS="682"
-                    WIDTH="36"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="96 749 132 749 132 734 131 682 96 682 96 734"/></Shape>
-            <String CONTENT="S"
-                    HPOS="96"
-                    VPOS="682"
-                    WIDTH="36"
-                    HEIGHT="67"
-                    WC="0.99806147813797"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="485"
                    VPOS="1035"
                    WIDTH="152"
@@ -405,6 +382,29 @@
                     WIDTH="118"
                     HEIGHT="58"
                     ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="80"
+                   VPOS="663"
+                   WIDTH="70"
+                   HEIGHT="93"
+                   ID="eSc_textblock_6ed5b498"
+                   TAGREFS="BT10">
+          <Shape><Polygon POINTS="80 663 80 756 150 756 150 663"/></Shape>
+          <TextLine ID="eSc_line_f9455971"
+                    TAGREFS="LT9"
+                    BASELINE="97 735 133 735" 
+                    HPOS="96"
+                    VPOS="682"
+                    WIDTH="36"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="96 749 132 749 132 734 131 682 96 682 96 734"/></Shape>
+            <String CONTENT="S"
+                    HPOS="96"
+                    VPOS="682"
+                    WIDTH="36"
+                    HEIGHT="67"
+                    WC="0.99806147813797"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

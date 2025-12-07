@@ -376,29 +376,6 @@
                     WC="0.9814839273691177"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="69"
-                   VPOS="830"
-                   WIDTH="73"
-                   HEIGHT="80"
-                   ID="eSc_textblock_90cce357"
-                   TAGREFS="BT10">
-          <Shape><Polygon POINTS="69 830 69 910 142 910 142 830"/></Shape>
-          <TextLine ID="eSc_line_a4186e77"
-                    TAGREFS="LT9"
-                    BASELINE="90 896 124 896" 
-                    HPOS="89"
-                    VPOS="835"
-                    WIDTH="34"
-                    HEIGHT="64">
-            <Shape><Polygon POINTS="89 899 123 899 123 895 123 835 89 835 89 895"/></Shape>
-            <String CONTENT="V"
-                    HPOS="89"
-                    VPOS="835"
-                    WIDTH="34"
-                    HEIGHT="64"
-                    WC="0.9989715814590454"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="485"
                    VPOS="1068"
                    WIDTH="115"
@@ -420,6 +397,29 @@
                     WIDTH="93"
                     HEIGHT="54"
                     ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="69"
+                   VPOS="830"
+                   WIDTH="73"
+                   HEIGHT="80"
+                   ID="eSc_textblock_90cce357"
+                   TAGREFS="BT10">
+          <Shape><Polygon POINTS="69 830 69 910 142 910 142 830"/></Shape>
+          <TextLine ID="eSc_line_a4186e77"
+                    TAGREFS="LT9"
+                    BASELINE="90 896 124 896" 
+                    HPOS="89"
+                    VPOS="835"
+                    WIDTH="34"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="89 899 123 899 123 895 123 835 89 835 89 895"/></Shape>
+            <String CONTENT="V"
+                    HPOS="89"
+                    VPOS="835"
+                    WIDTH="34"
+                    HEIGHT="64"
+                    WC="0.9989715814590454"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
