@@ -102,8 +102,8 @@ characters:
   - œ
   - '6'
   - '8'
-  - '7'
   - (
+  - '7'
   - B
   - )
   - '0'
@@ -173,7 +173,7 @@ url: https://github.com/SETAFDH/SETAF-autres-romain
 volume:
 - count: 692725
   metric: characters
-- count: 1030
+- count: 1031
   metric: files
 - count: 29798
   metric: lines
