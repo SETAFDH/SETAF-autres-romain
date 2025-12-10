@@ -102,8 +102,8 @@ characters:
   - œ
   - '6'
   - '8'
-  - '7'
   - (
+  - '7'
   - B
   - )
   - '0'
@@ -171,11 +171,11 @@ transcription-guidelines: >-
   our rules is available on HAL (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/SETAF-autres-romain
 volume:
-- count: 707260
+- count: 712359
   metric: characters
-- count: 1056
+- count: 1066
   metric: files
-- count: 30483
+- count: 30769
   metric: lines
-- count: 5330
+- count: 5366
   metric: regions
