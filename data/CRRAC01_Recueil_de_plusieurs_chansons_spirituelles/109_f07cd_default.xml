@@ -45,6 +45,29 @@
                     WC="0.9984378814697266"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="324"
+                   VPOS="49"
+                   WIDTH="287"
+                   HEIGHT="84"
+                   ID="eSc_textblock_3e0d155f"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="324 49 324 133 600 133 611 50"/></Shape>
+          <TextLine ID="eSc_line_ea2c0544"
+                    TAGREFS="LT10"
+                    BASELINE="348 113 568 110" 
+                    HPOS="348"
+                    VPOS="57"
+                    WIDTH="220"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="559 74 480 57 458 71 457 71 456 71 455 71 430 78 410 65 409 65 408 65 407 65 360 65 359 65 359 66 355 69 348 65 348 113 348 122 376 122 379 126 379 127 380 127 381 127 447 122 453 126 454 126 455 126 487 122 498 125 499 125 500 125 513 120 551 125 552 125 568 119 568 110 565 76 562 75"/></Shape>
+            <String CONTENT="Chanſons"
+                    HPOS="348"
+                    VPOS="57"
+                    WIDTH="220"
+                    HEIGHT="70"
+                    WC="0.9944032356142998"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="115"
                    VPOS="121"
                    WIDTH="583"
@@ -285,12 +308,12 @@
                     WIDTH="486"
                     HEIGHT="49">
             <Shape><Polygon POINTS="153 750 153 760 182 759 183 759 184 759 190 754 226 759 227 759 271 753 303 759 304 759 353 751 445 751 479 758 480 758 638 756 638 746 638 722 608 711 607 711 607 711 606 711 590 715 572 714 572 714 571 714 570 714 557 722 539 711 538 711 538 711 537 711 515 719 458 711 458 711 457 711 456 711 434 727 347 727 340 722 340 721 339 721 339 721 338 721 301 726 270 713 270 713 250 713 249 713 248 713 247 713 231 725 196 714 196 714 195 714 152 714 153 750"/></Shape>
-            <String CONTENT="D’auoir bien. De leſus, &amp;e."
+            <String CONTENT="D’auoir bien. De leſus, &amp;c."
                     HPOS="152"
                     VPOS="711"
                     WIDTH="486"
                     HEIGHT="49"
-                    WC="0.9868773575182315"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_984931da"
                     TAGREFS="LT8"
@@ -300,12 +323,12 @@
                     WIDTH="408"
                     HEIGHT="47">
             <Shape><Polygon POINTS="202 786 202 795 306 795 316 799 316 799 317 799 318 799 332 794 366 799 367 800 395 800 395 799 396 799 415 794 464 799 464 799 610 794 610 783 609 761 584 755 584 755 583 755 569 760 524 757 524 757 523 757 509 760 497 753 496 753 495 753 432 753 431 753 430 753 419 757 406 753 405 753 404 753 404 753 403 753 389 762 327 759 327 759 275 762 250 754 249 754 207 754 206 754 205 754 205 754 205 755 202 757 202 786"/></Shape>
-            <String CONTENT="L’homme qui eſt ignor ant,"
+            <String CONTENT="L’homme qui eſt ignorant,"
                     HPOS="202"
                     VPOS="753"
                     WIDTH="408"
                     HEIGHT="47"
-                    WC="0.9780593468592718"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_6eaf90f0"
                     TAGREFS="LT8"
@@ -456,29 +479,6 @@
                     WIDTH="357"
                     HEIGHT="53"
                     WC="0.9728768849372864"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="324"
-                   VPOS="49"
-                   WIDTH="287"
-                   HEIGHT="84"
-                   ID="eSc_textblock_3e0d155f"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="324 49 324 133 600 133 611 50"/></Shape>
-          <TextLine ID="eSc_line_ea2c0544"
-                    TAGREFS="LT10"
-                    BASELINE="348 113 568 110" 
-                    HPOS="348"
-                    VPOS="57"
-                    WIDTH="220"
-                    HEIGHT="70">
-            <Shape><Polygon POINTS="559 74 480 57 458 71 457 71 456 71 455 71 430 78 410 65 409 65 408 65 407 65 360 65 359 65 359 66 355 69 348 65 348 113 348 122 376 122 379 126 379 127 380 127 381 127 447 122 453 126 454 126 455 126 487 122 498 125 499 125 500 125 513 120 551 125 552 125 568 119 568 110 565 76 562 75"/></Shape>
-            <String CONTENT="Chanſons"
-                    HPOS="348"
-                    VPOS="57"
-                    WIDTH="220"
-                    HEIGHT="70"
-                    WC="0.9944032356142998"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

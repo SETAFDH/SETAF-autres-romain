@@ -45,6 +45,29 @@
                     WC="0.9954711397488912"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="321"
+                   VPOS="53"
+                   WIDTH="272"
+                   HEIGHT="77"
+                   ID="eSc_textblock_bc4f723f"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="321 53 321 130 593 130 593 53"/></Shape>
+          <TextLine ID="eSc_line_c2eb5058"
+                    TAGREFS="LT10"
+                    BASELINE="353 116 564 113" 
+                    HPOS="352"
+                    VPOS="62"
+                    WIDTH="212"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="353 123 563 125 564 113 562 76 534 76 501 62 500 62 473 63 441 77 416 77 401 65 401 64 400 64 399 64 360 68 359 68 352 72 353 116"/></Shape>
+            <String CONTENT="Chanſons"
+                    HPOS="352"
+                    VPOS="62"
+                    WIDTH="212"
+                    HEIGHT="63"
+                    WC="0.9996177926659584"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="99"
                    VPOS="121"
                    WIDTH="702"
@@ -360,12 +383,12 @@
                     WIDTH="600"
                     HEIGHT="59">
             <Shape><Polygon POINTS="721 906 720 906 715 910 703 907 702 907 701 907 689 913 680 910 679 910 678 910 655 915 637 910 636 910 635 910 617 916 566 916 551 910 550 910 549 910 531 918 512 918 469 910 468 910 435 911 434 911 433 911 421 920 349 921 319 913 318 913 295 914 294 914 273 922 241 916 240 916 205 924 169 922 170 948 170 957 208 957 219 964 220 964 221 964 222 964 253 955 297 955 310 962 311 962 312 962 313 962 325 954 355 959 356 959 417 953 451 964 452 964 453 964 470 964 595 961 596 961 605 956 614 961 615 961 655 960 656 960 672 949 682 952 683 952 720 947 768 947 769 936 766 908 762 905"/></Shape>
-            <String CONTENT="La ferme aſſeurance de neſtre fay, paur paruenir à"
+            <String CONTENT="La ferme aſſeurance de noſtre foy, pour paruenir à"
                     HPOS="169"
                     VPOS="905"
                     WIDTH="600"
                     HEIGHT="59"
-                    WC="0.9877683356696484"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_43960151"
                     TAGREFS="LT10"
@@ -441,29 +464,6 @@
                     WIDTH="371"
                     HEIGHT="52"
                     WC="0.9961012981154702"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="321"
-                   VPOS="53"
-                   WIDTH="272"
-                   HEIGHT="77"
-                   ID="eSc_textblock_bc4f723f"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="321 53 321 130 593 130 593 53"/></Shape>
-          <TextLine ID="eSc_line_c2eb5058"
-                    TAGREFS="LT10"
-                    BASELINE="353 116 564 113" 
-                    HPOS="352"
-                    VPOS="62"
-                    WIDTH="212"
-                    HEIGHT="63">
-            <Shape><Polygon POINTS="353 123 563 125 564 113 562 76 534 76 501 62 500 62 473 63 441 77 416 77 401 65 401 64 400 64 399 64 360 68 359 68 352 72 353 116"/></Shape>
-            <String CONTENT="Chanſons"
-                    HPOS="352"
-                    VPOS="62"
-                    WIDTH="212"
-                    HEIGHT="63"
-                    WC="0.9996177926659584"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="140"
