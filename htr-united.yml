@@ -69,8 +69,8 @@ characters:
   - E
   - ’
   - '&'
-  - C
   - D
+  - C
   - z
   - S
   - ':'
@@ -171,11 +171,11 @@ transcription-guidelines: >-
   our rules is available on HAL (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/SETAF-autres-romain
 volume:
-- count: 766424
+- count: 773232
   metric: characters
-- count: 1156
+- count: 1166
   metric: files
-- count: 33365
+- count: 33659
   metric: lines
-- count: 5739
+- count: 5785
   metric: regions
