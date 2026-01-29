@@ -22,6 +22,52 @@
                   VPOS="0"
                   WIDTH="4267"
                   HEIGHT="6965">
+        <TextBlock HPOS="3368"
+                   VPOS="305"
+                   WIDTH="199"
+                   HEIGHT="262"
+                   ID="eSc_textblock_1e78c313"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="3368 305 3368 567 3567 567 3567 305"/></Shape>
+          <TextLine ID="eSc_line_8cbdce7a"
+                    TAGREFS="LT8"
+                    BASELINE="3384 506 3530 499" 
+                    HPOS="3372"
+                    VPOS="371"
+                    WIDTH="116"
+                    HEIGHT="232">
+            <Shape><Polygon POINTS="3411 371 3372 383 3384 506 3388 588 3488 603 3488 499 3473 375 3449 375"/></Shape>
+            <String CONTENT="◊"
+                    HPOS="3372"
+                    VPOS="371"
+                    WIDTH="116"
+                    HEIGHT="232"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1292"
+                   VPOS="242"
+                   WIDTH="1311"
+                   HEIGHT="293"
+                   ID="eSc_textblock_989ec694"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="1292 242 1292 535 2603 535 2603 242"/></Shape>
+          <TextLine ID="eSc_line_7ba2af9d"
+                    TAGREFS="LT10"
+                    BASELINE="1355 468 2551 460" 
+                    HPOS="1351"
+                    VPOS="340"
+                    WIDTH="1200"
+                    HEIGHT="205">
+            <Shape><Polygon POINTS="2474 367 2435 367 2396 363 2358 363 2319 363 2280 363 2241 359 2203 359 2164 359 2125 359 2087 355 2048 355 2040 355 2028 359 2017 355 2009 355 1970 355 1932 352 1893 352 1854 352 1815 348 1785 352 1734 348 1699 348 1661 344 1622 344 1583 344 1568 344 1544 363 1417 340 1390 344 1351 414 1355 468 1355 545 1583 510 1734 537 1738 537 1916 510 2001 537 2005 537 2009 537 2013 537 2110 506 2141 533 2141 537 2145 537 2148 537 2152 541 2276 541 2276 537 2280 537 2284 537 2323 506 2458 533 2462 533 2466 533 2551 503 2551 460 2536 406 2512 367"/></Shape>
+            <String CONTENT="La Verité cac◊ee."
+                    HPOS="1351"
+                    VPOS="340"
+                    WIDTH="1200"
+                    HEIGHT="205"
+                    ></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="422"
                    VPOS="535"
                    WIDTH="3208"
@@ -112,12 +158,12 @@
                     WIDTH="3005"
                     HEIGHT="279">
             <Shape><Polygon POINTS="495 1841 495 1915 607 1915 638 1938 642 1938 646 1938 650 1938 979 1934 983 1934 987 1934 1026 1911 1099 1926 1103 1926 1107 1926 1111 1926 1157 1892 1320 1884 1366 1903 1370 1903 1374 1903 1378 1903 1382 1903 1409 1884 1769 1919 1773 1919 1777 1919 1839 1892 2005 1911 2009 1911 2164 1872 2369 1872 2698 1872 2849 1915 2853 1915 2857 1915 3492 1911 3496 1810 3488 1694 3244 1659 3240 1659 3237 1659 3233 1659 3186 1698 3078 1698 2389 1687 2385 1687 2381 1687 2334 1706 2307 1683 2303 1683 2299 1683 2296 1683 2075 1706 1908 1675 1905 1675 1723 1710 1235 1679 1231 1679 1006 1718 801 1687 797 1687 793 1687 789 1687 735 1721 662 1687 658 1687 654 1687 491 1694 495 1841"/></Shape>
-            <String CONTENT="Dy luy, Comment? veux-tu apprédre"
+            <String CONTENT="Dy luy, Comment? veux-tu apprẽdre"
                     HPOS="491"
                     VPOS="1659"
                     WIDTH="3005"
                     HEIGHT="279"
-                    WC="0.9994343536741593"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_911c68ff"
                     TAGREFS="LT8"
@@ -403,52 +449,6 @@
                     WIDTH="2509"
                     HEIGHT="263"
                     WC="0.9773227662751169"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="1292"
-                   VPOS="242"
-                   WIDTH="1311"
-                   HEIGHT="293"
-                   ID="eSc_textblock_989ec694"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="1292 242 1292 535 2603 535 2603 242"/></Shape>
-          <TextLine ID="eSc_line_7ba2af9d"
-                    TAGREFS="LT10"
-                    BASELINE="1355 468 2551 460" 
-                    HPOS="1351"
-                    VPOS="340"
-                    WIDTH="1200"
-                    HEIGHT="205">
-            <Shape><Polygon POINTS="2474 367 2435 367 2396 363 2358 363 2319 363 2280 363 2241 359 2203 359 2164 359 2125 359 2087 355 2048 355 2040 355 2028 359 2017 355 2009 355 1970 355 1932 352 1893 352 1854 352 1815 348 1785 352 1734 348 1699 348 1661 344 1622 344 1583 344 1568 344 1544 363 1417 340 1390 344 1351 414 1355 468 1355 545 1583 510 1734 537 1738 537 1916 510 2001 537 2005 537 2009 537 2013 537 2110 506 2141 533 2141 537 2145 537 2148 537 2152 541 2276 541 2276 537 2280 537 2284 537 2323 506 2458 533 2462 533 2466 533 2551 503 2551 460 2536 406 2512 367"/></Shape>
-            <String CONTENT="La Verité cae iec,"
-                    HPOS="1351"
-                    VPOS="340"
-                    WIDTH="1200"
-                    HEIGHT="205"
-                    WC="0.9986485713406613"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="3368"
-                   VPOS="305"
-                   WIDTH="199"
-                   HEIGHT="262"
-                   ID="eSc_textblock_1e78c313"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="3368 305 3368 567 3567 567 3567 305"/></Shape>
-          <TextLine ID="eSc_line_8cbdce7a"
-                    TAGREFS="LT8"
-                    BASELINE="3384 506 3530 499" 
-                    HPOS="3372"
-                    VPOS="371"
-                    WIDTH="116"
-                    HEIGHT="232">
-            <Shape><Polygon POINTS="3411 371 3372 383 3384 506 3388 588 3488 603 3488 499 3473 375 3449 375"/></Shape>
-            <String CONTENT="D"
-                    HPOS="3372"
-                    VPOS="371"
-                    WIDTH="116"
-                    HEIGHT="232"
-                    WC="0.9999871253967285"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
