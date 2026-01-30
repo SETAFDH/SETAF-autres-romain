@@ -481,6 +481,44 @@
                     HEIGHT="216"
                     ></String>
           </TextLine>
+          <TextLine ID="eSc_line_cfe4938e"
+                    TAGREFS="LT8"
+                    BASELINE="116 928 712 928" 
+                    HPOS="116"
+                    VPOS="816"
+                    WIDTH="596"
+                    HEIGHT="256">
+            <Shape><Polygon POINTS="116 928 116 1072 192 1072 192 1068 196 1068 304 1008 708 1048 712 928 712 840 128 816 116 856"/></Shape>
+            <String CONTENT="◊ean10.c."
+                    HPOS="116"
+                    VPOS="816"
+                    WIDTH="596"
+                    HEIGHT="256"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="87"
+                   VPOS="2202"
+                   WIDTH="629"
+                   HEIGHT="294"
+                   ID="eSc_textblock_8bbbf5f6"
+                   TAGREFS="BT13">
+          <Shape><Polygon POINTS="87 2202 87 2496 716 2496 716 2202"/></Shape>
+          <TextLine ID="eSc_line_89035c4f"
+                    TAGREFS="LT8"
+                    BASELINE="136 2396 674 2398" 
+                    HPOS="132"
+                    VPOS="2190"
+                    WIDTH="541"
+                    HEIGHT="336">
+            <Shape><Polygon POINTS="132 2526 252 2526 252 2520 258 2520 264 2520 354 2460 402 2502 402 2508 408 2508 414 2508 420 2508 426 2508 534 2454 673 2454 673 2394 673 2274 132 2190 132 2394"/></Shape>
+            <String CONTENT="Matt7.c"
+                    HPOS="132"
+                    VPOS="2190"
+                    WIDTH="541"
+                    HEIGHT="336"
+                    ></String>
+          </TextLine>
         </TextBlock>
         <TextBlock HPOS="87"
                    VPOS="3093"
@@ -532,46 +570,6 @@
                     VPOS="4401"
                     WIDTH="548"
                     HEIGHT="212"
-                    ></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="87"
-                   VPOS="2202"
-                   WIDTH="629"
-                   HEIGHT="294"
-                   ID="eSc_textblock_8bbbf5f6"
-                   TAGREFS="BT13">
-          <Shape><Polygon POINTS="87 2202 87 2496 716 2496 716 2202"/></Shape>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_cfe4938e"
-                    TAGREFS="LT8"
-                    BASELINE="116 928 712 928" 
-                    HPOS="116"
-                    VPOS="816"
-                    WIDTH="596"
-                    HEIGHT="256">
-            <Shape><Polygon POINTS="116 928 116 1072 192 1072 192 1068 196 1068 304 1008 708 1048 712 928 712 840 128 816 116 856"/></Shape>
-            <String CONTENT="◊ean10.c."
-                    HPOS="116"
-                    VPOS="816"
-                    WIDTH="596"
-                    HEIGHT="256"
-                    ></String>
-          </TextLine>
-          <TextLine ID="eSc_line_89035c4f"
-                    TAGREFS="LT8"
-                    BASELINE="136 2396 674 2398" 
-                    HPOS="132"
-                    VPOS="2190"
-                    WIDTH="541"
-                    HEIGHT="336">
-            <Shape><Polygon POINTS="132 2526 252 2526 252 2520 258 2520 264 2520 354 2460 402 2502 402 2508 408 2508 414 2508 420 2508 426 2508 534 2454 673 2454 673 2394 673 2274 132 2190 132 2394"/></Shape>
-            <String CONTENT="Matt7.c"
-                    HPOS="132"
-                    VPOS="2190"
-                    WIDTH="541"
-                    HEIGHT="336"
                     ></String>
           </TextLine>
           <TextLine ID="eSc_line_fd17ef89"
