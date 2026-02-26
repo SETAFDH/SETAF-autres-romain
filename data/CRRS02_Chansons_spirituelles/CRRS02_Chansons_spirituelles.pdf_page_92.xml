@@ -45,6 +45,29 @@
                     WC="0.9987273216247559"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="1696"
+                   VPOS="525"
+                   WIDTH="1694"
+                   HEIGHT="308"
+                   ID="eSc_textblock_0378b1a3"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="1696 525 1696 833 3390 833 3390 525"/></Shape>
+          <TextLine ID="eSc_line_95180195"
+                    TAGREFS="LT10"
+                    BASELINE="1745 728 3267 706" 
+                    HPOS="1740"
+                    VPOS="558"
+                    WIDTH="1527"
+                    HEIGHT="231">
+            <Shape><Polygon POINTS="2417 558 2412 558 2408 558 2338 588 2260 562 2255 562 2251 562 2246 562 2242 562 2212 593 2102 593 2054 562 2050 562 2046 562 2041 562 2037 562 1958 593 1862 566 1836 566 1740 597 1745 728 1758 784 1775 763 2041 789 2046 789 2434 754 2578 780 2582 780 2587 780 2630 758 2953 776 2958 776 2962 776 3054 750 3128 771 3132 771 3136 771 3263 741 3267 706 3259 579 3241 566"/></Shape>
+            <String CONTENT="CHANSONS"
+                    HPOS="1740"
+                    VPOS="558"
+                    WIDTH="1527"
+                    HEIGHT="231"
+                    WC="0.9994812831282616"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="617"
                    VPOS="833"
                    WIDTH="2764"
@@ -435,7 +458,7 @@
                     WIDTH="1767"
                     HEIGHT="200">
             <Shape><Polygon POINTS="706 6113 706 6152 2465 6148 2469 6109 2456 5973 1972 5991 1784 5952 1780 5952 1775 5952 1623 5991 1548 5952 1544 5952 1439 5952 1435 5952 1431 5952 1343 5991 1186 5960 1182 5960 1178 5960 1095 5995 946 5995 842 5952 837 5952 702 5952 706 6113"/></Shape>
-            <String CONTENT="Les maudits enuieux,"
+            <String CONTENT="Les maudits enuieux"
                     HPOS="702"
                     VPOS="5952"
                     WIDTH="1767"
@@ -471,29 +494,6 @@
                     WIDTH="1959"
                     HEIGHT="275"
                     WC="0.9672094707687696"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="1696"
-                   VPOS="525"
-                   WIDTH="1694"
-                   HEIGHT="308"
-                   ID="eSc_textblock_0378b1a3"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="1696 525 1696 833 3390 833 3390 525"/></Shape>
-          <TextLine ID="eSc_line_95180195"
-                    TAGREFS="LT10"
-                    BASELINE="1745 728 3267 706" 
-                    HPOS="1740"
-                    VPOS="558"
-                    WIDTH="1527"
-                    HEIGHT="231">
-            <Shape><Polygon POINTS="2417 558 2412 558 2408 558 2338 588 2260 562 2255 562 2251 562 2246 562 2242 562 2212 593 2102 593 2054 562 2050 562 2046 562 2041 562 2037 562 1958 593 1862 566 1836 566 1740 597 1745 728 1758 784 1775 763 2041 789 2046 789 2434 754 2578 780 2582 780 2587 780 2630 758 2953 776 2958 776 2962 776 3054 750 3128 771 3132 771 3136 771 3263 741 3267 706 3259 579 3241 566"/></Shape>
-            <String CONTENT="CHANSONS"
-                    HPOS="1740"
-                    VPOS="558"
-                    WIDTH="1527"
-                    HEIGHT="231"
-                    WC="0.9994812831282616"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="726"
