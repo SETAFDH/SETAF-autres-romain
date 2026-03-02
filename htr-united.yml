@@ -131,15 +131,14 @@ characters:
   - k
   - K
   - æ
-  - ;
   - U
   - ͥ
+  - ;
   - ꝙ
   - ͬ
   - ꝫ
   - ẞ
   - $
-  - J
   mode: NFD
 citation-file-link: https://github.com/SETAFDH/SETAF-autres-romain/blob/main/CITATION.cff
 description: >-
@@ -173,7 +172,7 @@ transcription-guidelines: >-
   our rules is available on HAL (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/SETAF-autres-romain
 volume:
-- count: 972063
+- count: 972075
   metric: characters
 - count: 1476
   metric: files
