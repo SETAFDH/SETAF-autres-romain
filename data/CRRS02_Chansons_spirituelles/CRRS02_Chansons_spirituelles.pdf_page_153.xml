@@ -22,6 +22,52 @@
                   VPOS="0"
                   WIDTH="4267"
                   HEIGHT="8012">
+        <TextBlock HPOS="3018"
+                   VPOS="661"
+                   WIDTH="508"
+                   HEIGHT="272"
+                   ID="eSc_textblock_0c19803d"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="3018 661 3018 933 3526 933 3526 661"/></Shape>
+          <TextLine ID="eSc_line_65a9b8cf"
+                    TAGREFS="LT8"
+                    BASELINE="3126 850 3425 850" 
+                    HPOS="3126"
+                    VPOS="721"
+                    WIDTH="299"
+                    HEIGHT="227">
+            <Shape><Polygon POINTS="3411 721 3126 721 3126 850 3126 943 3313 948 3318 948 3322 948 3425 912 3425 850 3425 734 3411 721"/></Shape>
+            <String CONTENT="141"
+                    HPOS="3126"
+                    VPOS="721"
+                    WIDTH="299"
+                    HEIGHT="227"
+                    WC="0.998977780342102"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="645"
+                   VPOS="689"
+                   WIDTH="1884"
+                   HEIGHT="244"
+                   ID="eSc_textblock_478b0076"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="645 689 645 933 2529 933 2529 689"/></Shape>
+          <TextLine ID="eSc_line_a4bdc673"
+                    TAGREFS="LT10"
+                    BASELINE="734 859 2489 845" 
+                    HPOS="730"
+                    VPOS="694"
+                    WIDTH="1759"
+                    HEIGHT="236">
+            <Shape><Polygon POINTS="1576 694 1532 694 1487 694 1443 694 1398 694 1358 694 1282 725 970 694 953 694 913 694 850 725 792 703 788 703 783 703 779 703 730 725 730 729 734 859 734 894 935 925 939 930 1144 930 1144 925 1149 925 1153 925 1184 899 1291 925 1296 925 1300 925 1305 925 1376 894 1447 916 1452 916 1456 921 1616 921 1616 916 1621 916 1625 916 1625 912 1648 894 2209 916 2213 916 2218 916 2222 916 2258 890 2378 916 2382 916 2387 916 2489 881 2489 845 2480 721 1661 694 1621 694"/></Shape>
+            <String CONTENT="SPIRITVELLES."
+                    HPOS="730"
+                    VPOS="694"
+                    WIDTH="1759"
+                    HEIGHT="236"
+                    WC="0.9995698103537927"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="110"
                    VPOS="897"
                    WIDTH="2401"
@@ -67,7 +113,7 @@
                     WIDTH="1822"
                     HEIGHT="227">
             <Shape><Polygon POINTS="267 1566 267 1615 498 1589 734 1611 739 1611 1024 1589 1082 1611 1086 1611 1091 1611 1095 1611 1162 1584 1251 1606 1256 1606 1260 1606 1264 1606 1318 1584 1852 1606 1857 1606 2080 1575 2084 1544 2075 1433 1946 1411 1941 1411 1937 1411 1839 1437 1207 1437 1100 1388 1095 1388 1091 1388 1086 1388 1002 1415 570 1393 565 1393 561 1393 556 1393 494 1437 387 1393 383 1393 378 1393 374 1393 369 1393 369 1397 329 1437 262 1442 267 1566"/></Shape>
-            <String CONTENT="t Ie ſuis du Dieu viuant"
+            <String CONTENT="Ie ſuis du Dieu viuant"
                     HPOS="262"
                     VPOS="1388"
                     WIDTH="1822"
@@ -382,7 +428,7 @@
                     WIDTH="1589"
                     HEIGHT="267">
             <Shape><Polygon POINTS="273 6069 267 6122 1843 6155 1856 6089 1849 5955 1575 5948 1555 5915 1549 5915 1549 5908 1542 5908 1535 5908 1529 5908 1335 5948 1268 5915 1262 5915 1255 5915 974 5942 948 5908 941 5908 941 5902 934 5902 928 5902 921 5902 787 5928 674 5895 667 5895 661 5895 654 5895 647 5895 600 5928 273 5888 273 6069"/></Shape>
-            <String CONTENT="P&#x27;ar leſus luy plaiſant,"
+            <String CONTENT="Par leſus luy plaiſant,"
                     HPOS="267"
                     VPOS="5888"
                     WIDTH="1589"
@@ -450,52 +496,6 @@
                     WC="0.9962645116306487"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="645"
-                   VPOS="689"
-                   WIDTH="1884"
-                   HEIGHT="244"
-                   ID="eSc_textblock_478b0076"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="645 689 645 933 2529 933 2529 689"/></Shape>
-          <TextLine ID="eSc_line_a4bdc673"
-                    TAGREFS="LT10"
-                    BASELINE="734 859 2489 845" 
-                    HPOS="730"
-                    VPOS="694"
-                    WIDTH="1759"
-                    HEIGHT="236">
-            <Shape><Polygon POINTS="1576 694 1532 694 1487 694 1443 694 1398 694 1358 694 1282 725 970 694 953 694 913 694 850 725 792 703 788 703 783 703 779 703 730 725 730 729 734 859 734 894 935 925 939 930 1144 930 1144 925 1149 925 1153 925 1184 899 1291 925 1296 925 1300 925 1305 925 1376 894 1447 916 1452 916 1456 921 1616 921 1616 916 1621 916 1625 916 1625 912 1648 894 2209 916 2213 916 2218 916 2222 916 2258 890 2378 916 2382 916 2387 916 2489 881 2489 845 2480 721 1661 694 1621 694"/></Shape>
-            <String CONTENT="SPIRITVELLES."
-                    HPOS="730"
-                    VPOS="694"
-                    WIDTH="1759"
-                    HEIGHT="236"
-                    WC="0.9995698103537927"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="3018"
-                   VPOS="661"
-                   WIDTH="508"
-                   HEIGHT="272"
-                   ID="eSc_textblock_0c19803d"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="3018 661 3018 933 3526 933 3526 661"/></Shape>
-          <TextLine ID="eSc_line_65a9b8cf"
-                    TAGREFS="LT8"
-                    BASELINE="3126 850 3425 850" 
-                    HPOS="3126"
-                    VPOS="721"
-                    WIDTH="299"
-                    HEIGHT="227">
-            <Shape><Polygon POINTS="3411 721 3126 721 3126 850 3126 943 3313 948 3318 948 3322 948 3425 912 3425 850 3425 734 3411 721"/></Shape>
-            <String CONTENT="141"
-                    HPOS="3126"
-                    VPOS="721"
-                    WIDTH="299"
-                    HEIGHT="227"
-                    WC="0.998977780342102"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="2466"
                    VPOS="6967"
                    WIDTH="353"
@@ -511,7 +511,7 @@
                     WIDTH="303"
                     HEIGHT="316">
             <Shape><Polygon POINTS="2458 7286 2752 7290 2752 7157 2734 6974 2596 7014 2512 6979 2507 6979 2503 6979 2498 6979 2494 6979 2449 7001 2458 7166"/></Shape>
-            <String CONTENT="L.ji"
+            <String CONTENT="k .i."
                     HPOS="2449"
                     VPOS="6974"
                     WIDTH="303"
