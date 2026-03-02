@@ -60,12 +60,35 @@
                     WIDTH="1609"
                     HEIGHT="245">
             <Shape><Polygon POINTS="3317 441 3076 423 3072 423 3067 423 3063 423 3009 459 2822 423 2800 423 2777 423 2715 445 2684 418 2666 418 2621 418 2577 418 2532 418 2510 418 2483 441 2349 418 2345 418 2340 418 2336 418 2336 423 2305 454 2158 454 2122 423 2122 418 2117 418 2113 418 2068 414 2042 414 1997 414 1952 414 1935 414 1774 441 1774 570 1770 615 1828 646 1832 646 1836 646 2019 623 2117 650 2122 650 2126 650 2331 646 2336 646 2340 646 2363 623 2438 655 2443 655 2447 655 2452 655 2523 632 2661 655 2666 655 2817 632 2844 655 2844 659 2849 659 2853 659 2858 659 3375 632 3379 592 3375 459 3335 450"/></Shape>
-            <String CONTENT="CHANSONE"
+            <String CONTENT="CHANSONS"
                     HPOS="1770"
                     VPOS="414"
                     WIDTH="1609"
                     HEIGHT="245"
                     WC="0.9375231862068176"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="835"
+                   VPOS="2790"
+                   WIDTH="498"
+                   HEIGHT="499"
+                   ID="eSc_textblock_cc00a6df"
+                   TAGREFS="BT10">
+          <Shape><Polygon POINTS="835 2790 835 3289 1333 3289 1324 2809"/></Shape>
+          <TextLine ID="eSc_line_4cbda618"
+                    TAGREFS="LT9"
+                    BASELINE="930 3208 1252 3208" 
+                    HPOS="929"
+                    VPOS="2807"
+                    WIDTH="396"
+                    HEIGHT="475">
+            <Shape><Polygon POINTS="929 3235 1056 3282 1063 3282 1070 3282 1250 3242 1250 3202 1325 2808 929 2807 929 3202"/></Shape>
+            <String CONTENT="C"
+                    HPOS="929"
+                    VPOS="2807"
+                    WIDTH="396"
+                    HEIGHT="475"
+                    WC="0.9999175071716309"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="744"
@@ -496,29 +519,6 @@
                     WC="0.9806815593138986"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="835"
-                   VPOS="2790"
-                   WIDTH="498"
-                   HEIGHT="499"
-                   ID="eSc_textblock_cc00a6df"
-                   TAGREFS="BT10">
-          <Shape><Polygon POINTS="835 2790 835 3289 1333 3289 1324 2809"/></Shape>
-          <TextLine ID="eSc_line_4cbda618"
-                    TAGREFS="LT9"
-                    BASELINE="930 3208 1252 3208" 
-                    HPOS="929"
-                    VPOS="2807"
-                    WIDTH="396"
-                    HEIGHT="475">
-            <Shape><Polygon POINTS="929 3235 1056 3282 1063 3282 1070 3282 1250 3242 1250 3202 1325 2808 929 2807 929 3202"/></Shape>
-            <String CONTENT="C"
-                    HPOS="929"
-                    VPOS="2807"
-                    WIDTH="396"
-                    HEIGHT="475"
-                    WC="0.9999175071716309"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="3662"
                    VPOS="6704"
                    WIDTH="389"
@@ -534,7 +534,7 @@
                     WIDTH="347"
                     HEIGHT="307">
             <Shape><Polygon POINTS="3818 6705 3752 6705 3685 6705 3685 6898 3685 7012 4032 6965 4032 6898 4032 6725 3879 6705 3818 6705"/></Shape>
-            <String CONTENT="(Qu"
+            <String CONTENT="(Que"
                     HPOS="3685"
                     VPOS="6705"
                     WIDTH="347"
