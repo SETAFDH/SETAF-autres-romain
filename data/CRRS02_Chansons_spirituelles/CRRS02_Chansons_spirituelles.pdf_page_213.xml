@@ -22,6 +22,29 @@
                   VPOS="0"
                   WIDTH="4267"
                   HEIGHT="8012">
+        <TextBlock HPOS="3043"
+                   VPOS="512"
+                   WIDTH="410"
+                   HEIGHT="258"
+                   ID="eSc_textblock_fd1c9ed3"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="3043 512 3043 770 3453 770 3453 512"/></Shape>
+          <TextLine ID="eSc_line_3820e6e9"
+                    TAGREFS="LT8"
+                    BASELINE="3082 681 3425 689" 
+                    HPOS="3019"
+                    VPOS="534"
+                    WIDTH="406"
+                    HEIGHT="222">
+            <Shape><Polygon POINTS="3019 712 3229 756 3233 756 3420 721 3425 689 3425 578 3336 538 3331 538 3327 538 3242 556 3166 534 3162 534 3157 534 3153 534 3024 569 3024 681"/></Shape>
+            <String CONTENT="201"
+                    HPOS="3019"
+                    VPOS="534"
+                    WIDTH="406"
+                    HEIGHT="222"
+                    WC="0.9961119691530863"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="577"
                    VPOS="489"
                    WIDTH="2174"
@@ -90,7 +113,7 @@
                     WIDTH="3256"
                     HEIGHT="276">
             <Shape><Polygon POINTS="120 1370 120 1428 120 1486 338 1500 342 1500 347 1500 481 1464 530 1500 534 1500 538 1500 543 1500 547 1500 623 1473 948 1495 953 1495 1158 1451 1340 1491 1345 1491 1349 1491 1509 1451 1563 1491 1567 1491 1572 1491 1576 1491 2111 1442 2556 1482 2561 1482 2739 1477 2743 1477 2828 1433 3376 1428 3376 1384 3358 1224 3278 1250 2797 1237 2792 1237 2338 1259 2271 1224 2267 1224 2088 1224 2084 1224 1585 1264 1558 1246 1554 1246 1550 1246 1545 1246 1541 1246 1536 1246 1509 1268 1394 1232 1389 1232 1385 1232 1144 1264 1055 1246 1051 1246 1046 1246 1042 1246 997 1273 881 1241 877 1241 872 1241 596 1273 227 1241 222 1241 218 1241 146 1268 120 1370"/></Shape>
-            <String CONTENT="Etpour y paruenir, me ſuis mis pour ex¬"
+            <String CONTENT="Et pour y paruenir, me ſuis mis pour ex¬"
                     HPOS="120"
                     VPOS="1224"
                     WIDTH="3256"
@@ -471,29 +494,6 @@
                     WIDTH="770"
                     HEIGHT="343"
                     WC="0.9525627493858337"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="3043"
-                   VPOS="512"
-                   WIDTH="410"
-                   HEIGHT="258"
-                   ID="eSc_textblock_fd1c9ed3"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="3043 512 3043 770 3453 770 3453 512"/></Shape>
-          <TextLine ID="eSc_line_3820e6e9"
-                    TAGREFS="LT8"
-                    BASELINE="3082 681 3425 689" 
-                    HPOS="3019"
-                    VPOS="534"
-                    WIDTH="406"
-                    HEIGHT="222">
-            <Shape><Polygon POINTS="3019 712 3229 756 3233 756 3420 721 3425 689 3425 578 3336 538 3331 538 3327 538 3242 556 3166 534 3162 534 3157 534 3153 534 3024 569 3024 681"/></Shape>
-            <String CONTENT="201"
-                    HPOS="3019"
-                    VPOS="534"
-                    WIDTH="406"
-                    HEIGHT="222"
-                    WC="0.9961119691530863"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

@@ -22,6 +22,52 @@
                   VPOS="0"
                   WIDTH="4267"
                   HEIGHT="8012">
+        <TextBlock HPOS="2973"
+                   VPOS="583"
+                   WIDTH="480"
+                   HEIGHT="280"
+                   ID="eSc_textblock_fb4a205a"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="2973 583 2973 863 3453 863 3453 583"/></Shape>
+          <TextLine ID="eSc_line_5f5cfddf"
+                    TAGREFS="LT8"
+                    BASELINE="3033 752 3367 743" 
+                    HPOS="3024"
+                    VPOS="605"
+                    WIDTH="343"
+                    HEIGHT="262">
+            <Shape><Polygon POINTS="3033 752 3033 841 3206 827 3264 867 3269 867 3273 867 3278 867 3367 863 3367 743 3358 645 3198 605 3193 605 3024 645 3033 752"/></Shape>
+            <String CONTENT="203"
+                    HPOS="3024"
+                    VPOS="605"
+                    WIDTH="343"
+                    HEIGHT="262"
+                    WC="0.9987753431002299"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="168"
+                   VPOS="3178"
+                   WIDTH="327"
+                   HEIGHT="467"
+                   ID="eSc_textblock_29c2062b"
+                   TAGREFS="BT10">
+          <Shape><Polygon POINTS="168 3178 168 3645 495 3645 495 3178"/></Shape>
+          <TextLine ID="eSc_line_fff3bacb"
+                    TAGREFS="LT9"
+                    BASELINE="276 3596 436 3596" 
+                    HPOS="273"
+                    VPOS="3184"
+                    WIDTH="161"
+                    HEIGHT="461">
+            <Shape><Polygon POINTS="273 3645 434 3625 434 3592 434 3184 273 3184 273 3592"/></Shape>
+            <String CONTENT="V"
+                    HPOS="273"
+                    VPOS="3184"
+                    WIDTH="161"
+                    HEIGHT="461"
+                    WC="0.999821126461029"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="86"
                    VPOS="828"
                    WIDTH="3624"
@@ -82,7 +128,7 @@
                     WIDTH="2181"
                     HEIGHT="236">
             <Shape><Polygon POINTS="628 1945 2734 1945 2739 1878 2804 1761 2676 1709 2672 1709 2667 1709 2534 1709 2529 1709 2525 1709 2449 1749 2351 1731 2347 1731 2169 1753 2129 1718 2129 1713 2124 1713 2120 1713 1919 1713 1915 1713 1910 1713 1906 1713 1875 1740 1643 1718 1639 1718 1634 1718 1630 1718 1630 1722 1590 1762 935 1767 703 1727 699 1727 694 1727 623 1753 628 1900"/></Shape>
-            <String CONTENT="de tous vrais Chreſtiens:oùe"
+            <String CONTENT="de tous vrais Chreſtiens: où"
                     HPOS="623"
                     VPOS="1709"
                     WIDTH="2181"
@@ -277,7 +323,7 @@
                     WIDTH="1270"
                     HEIGHT="258">
             <Shape><Polygon POINTS="227 4882 222 4918 316 4949 320 4949 325 4949 414 4931 440 4954 440 4958 445 4958 449 4958 454 4958 672 4936 944 4962 948 4962 953 4962 993 4940 1028 4962 1033 4962 1037 4962 1042 4962 1331 4936 1411 4958 1416 4958 1420 4958 1425 4958 1487 4931 1492 4896 1492 4776 1278 4776 1202 4718 1198 4718 1193 4718 1189 4718 1184 4718 1033 4767 970 4713 966 4713 962 4713 815 4713 810 4713 806 4713 801 4713 801 4718 748 4767 463 4767 396 4709 391 4709 387 4709 227 4704 227 4882"/></Shape>
-            <String CONTENT="Ole grand forfait."
+            <String CONTENT="O le grand forfait."
                     HPOS="222"
                     VPOS="4704"
                     WIDTH="1270"
@@ -397,7 +443,7 @@
                     WIDTH="1292"
                     HEIGHT="267">
             <Shape><Polygon POINTS="200 6600 195 6636 565 6694 570 6694 895 6663 1073 6694 1077 6694 1215 6672 1300 6707 1305 6707 1309 6707 1483 6667 1487 6632 1487 6520 1313 6520 1247 6463 1242 6463 1238 6463 1233 6463 1046 6507 997 6463 997 6458 993 6458 988 6458 984 6458 574 6498 387 6440 383 6440 378 6440 200 6454 200 6600"/></Shape>
-            <String CONTENT="Ole grand forfait."
+            <String CONTENT="O le grand forfait."
                     HPOS="195"
                     VPOS="6440"
                     WIDTH="1292"
@@ -418,52 +464,6 @@
                     WIDTH="1278"
                     HEIGHT="294"
                     WC="0.9960861802101135"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="2973"
-                   VPOS="583"
-                   WIDTH="480"
-                   HEIGHT="280"
-                   ID="eSc_textblock_fb4a205a"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="2973 583 2973 863 3453 863 3453 583"/></Shape>
-          <TextLine ID="eSc_line_5f5cfddf"
-                    TAGREFS="LT8"
-                    BASELINE="3033 752 3367 743" 
-                    HPOS="3024"
-                    VPOS="605"
-                    WIDTH="343"
-                    HEIGHT="262">
-            <Shape><Polygon POINTS="3033 752 3033 841 3206 827 3264 867 3269 867 3273 867 3278 867 3367 863 3367 743 3358 645 3198 605 3193 605 3024 645 3033 752"/></Shape>
-            <String CONTENT="263"
-                    HPOS="3024"
-                    VPOS="605"
-                    WIDTH="343"
-                    HEIGHT="262"
-                    WC="0.9987753431002299"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="168"
-                   VPOS="3178"
-                   WIDTH="327"
-                   HEIGHT="467"
-                   ID="eSc_textblock_29c2062b"
-                   TAGREFS="BT10">
-          <Shape><Polygon POINTS="168 3178 168 3645 495 3645 495 3178"/></Shape>
-          <TextLine ID="eSc_line_fff3bacb"
-                    TAGREFS="LT9"
-                    BASELINE="276 3596 436 3596" 
-                    HPOS="273"
-                    VPOS="3184"
-                    WIDTH="161"
-                    HEIGHT="461">
-            <Shape><Polygon POINTS="273 3645 434 3625 434 3592 434 3184 273 3184 273 3592"/></Shape>
-            <String CONTENT="V"
-                    HPOS="273"
-                    VPOS="3184"
-                    WIDTH="161"
-                    HEIGHT="461"
-                    WC="0.999821126461029"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="2014"
