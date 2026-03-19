@@ -104,8 +104,8 @@ characters:
   - '8'
   - '7'
   - (
-  - B
   - '-'
+  - B
   - '0'
   - )
   - '9'
@@ -131,9 +131,9 @@ characters:
   - k
   - K
   - æ
+  - ;
   - U
   - ͥ
-  - ;
   - ꝙ
   - ͬ
   - ꝫ
@@ -172,11 +172,11 @@ transcription-guidelines: >-
   our rules is available on HAL (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/SETAF-autres-romain
 volume:
-- count: 1016242
+- count: 1028817
   metric: characters
-- count: 1546
+- count: 1566
   metric: files
-- count: 45219
+- count: 45835
   metric: lines
-- count: 7466
+- count: 7550
   metric: regions
