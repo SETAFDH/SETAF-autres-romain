@@ -22,6 +22,52 @@
                   VPOS="0"
                   WIDTH="4267"
                   HEIGHT="8012">
+        <TextBlock HPOS="3027"
+                   VPOS="480"
+                   WIDTH="381"
+                   HEIGHT="227"
+                   ID="eSc_textblock_ad27fe49"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="3027 480 3027 707 3408 707 3408 480"/></Shape>
+          <TextLine ID="eSc_line_a7f1a9cc"
+                    TAGREFS="LT8"
+                    BASELINE="3073 632 3367 618" 
+                    HPOS="3064"
+                    VPOS="502"
+                    WIDTH="303"
+                    HEIGHT="245">
+            <Shape><Polygon POINTS="3064 502 3073 632 3073 725 3260 747 3264 747 3269 747 3367 707 3367 618 3358 502 3068 502 3064 502"/></Shape>
+            <String CONTENT="231"
+                    HPOS="3064"
+                    VPOS="502"
+                    WIDTH="303"
+                    HEIGHT="245"
+                    WC="0.9993361234664917"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="654"
+                   VPOS="480"
+                   WIDTH="1875"
+                   HEIGHT="227"
+                   ID="eSc_textblock_12ccc0ad"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="654 480 654 707 2529 707 2529 480"/></Shape>
+          <TextLine ID="eSc_line_593b6a97"
+                    TAGREFS="LT10"
+                    BASELINE="681 658 2472 614" 
+                    HPOS="677"
+                    VPOS="467"
+                    WIDTH="1795"
+                    HEIGHT="227">
+            <Shape><Polygon POINTS="2414 476 2369 476 2325 476 2280 476 2231 476 2227 476 2186 476 2142 471 2097 471 2053 471 1995 480 1830 467 1786 467 1754 467 1732 489 1037 480 1033 480 677 516 681 658 681 694 2387 676 2391 676 2472 645 2472 614 2458 485"/></Shape>
+            <String CONTENT="SPIRITVELLES."
+                    HPOS="677"
+                    VPOS="467"
+                    WIDTH="1795"
+                    HEIGHT="227"
+                    WC="0.9978131055831909"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="100"
                    VPOS="707"
                    WIDTH="2891"
@@ -232,7 +278,7 @@
                     WIDTH="1804"
                     HEIGHT="201">
             <Shape><Polygon POINTS="204 3712 204 3725 204 3770 2008 3770 2008 3725 2008 3618 1745 3609 1697 3569 1692 3569 1688 3569 1576 3569 1572 3569 1567 3569 1460 3618 1264 3618 1184 3569 1180 3569 1175 3569 1171 3569 1166 3569 1033 3605 792 3569 788 3569 783 3569 779 3569 721 3614 547 3592 543 3592 418 3614 369 3574 369 3569 365 3569 360 3569 302 3569 298 3569 293 3569 218 3605 204 3712"/></Shape>
-            <String CONTENT="Aleurs enfans benefices,"
+            <String CONTENT="A leurs enfans benefices,"
                     HPOS="204"
                     VPOS="3569"
                     WIDTH="1804"
@@ -322,7 +368,7 @@
                     WIDTH="1381"
                     HEIGHT="218">
             <Shape><Polygon POINTS="694 5060 2062 5069 2071 5011 2062 4905 1688 4878 1683 4878 1679 4878 1625 4900 1469 4851 1465 4851 1380 4851 1376 4851 1371 4851 1367 4851 1367 4856 1327 4891 1256 4856 1251 4856 1135 4856 1131 4856 1126 4856 1122 4856 1037 4905 877 4900 819 4856 815 4856 810 4856 717 4856 712 4856 708 4856 703 4856 703 4860 699 4860 690 4869 694 5020"/></Shape>
-            <String CONTENT="Et veiila leur cas."
+            <String CONTENT="Et voila leur cas."
                     HPOS="690"
                     VPOS="4851"
                     WIDTH="1381"
@@ -448,52 +494,6 @@
                     WIDTH="1724"
                     HEIGHT="276"
                     WC="0.9867947155779059"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="654"
-                   VPOS="480"
-                   WIDTH="1875"
-                   HEIGHT="227"
-                   ID="eSc_textblock_12ccc0ad"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="654 480 654 707 2529 707 2529 480"/></Shape>
-          <TextLine ID="eSc_line_593b6a97"
-                    TAGREFS="LT10"
-                    BASELINE="681 658 2472 614" 
-                    HPOS="677"
-                    VPOS="467"
-                    WIDTH="1795"
-                    HEIGHT="227">
-            <Shape><Polygon POINTS="2414 476 2369 476 2325 476 2280 476 2231 476 2227 476 2186 476 2142 471 2097 471 2053 471 1995 480 1830 467 1786 467 1754 467 1732 489 1037 480 1033 480 677 516 681 658 681 694 2387 676 2391 676 2472 645 2472 614 2458 485"/></Shape>
-            <String CONTENT="SPIRITVELLES."
-                    HPOS="677"
-                    VPOS="467"
-                    WIDTH="1795"
-                    HEIGHT="227"
-                    WC="0.9978131055831909"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="3027"
-                   VPOS="480"
-                   WIDTH="381"
-                   HEIGHT="227"
-                   ID="eSc_textblock_ad27fe49"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="3027 480 3027 707 3408 707 3408 480"/></Shape>
-          <TextLine ID="eSc_line_a7f1a9cc"
-                    TAGREFS="LT8"
-                    BASELINE="3073 632 3367 618" 
-                    HPOS="3064"
-                    VPOS="502"
-                    WIDTH="303"
-                    HEIGHT="245">
-            <Shape><Polygon POINTS="3064 502 3073 632 3073 725 3260 747 3264 747 3269 747 3367 707 3367 618 3358 502 3068 502 3064 502"/></Shape>
-            <String CONTENT="231"
-                    HPOS="3064"
-                    VPOS="502"
-                    WIDTH="303"
-                    HEIGHT="245"
-                    WC="0.9993361234664917"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

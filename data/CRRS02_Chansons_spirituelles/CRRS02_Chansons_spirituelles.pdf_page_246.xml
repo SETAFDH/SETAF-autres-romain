@@ -45,6 +45,29 @@
                     WC="0.9999707937240601"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="1750"
+                   VPOS="371"
+                   WIDTH="1758"
+                   HEIGHT="281"
+                   ID="eSc_textblock_388777e9"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="1877 371 1750 652 3508 652 3508 371"/></Shape>
+          <TextLine ID="eSc_line_30aea74f"
+                    TAGREFS="LT10"
+                    BASELINE="1880 556 3424 544" 
+                    HPOS="1871"
+                    VPOS="401"
+                    WIDTH="1552"
+                    HEIGHT="211">
+            <Shape><Polygon POINTS="1877 599 3411 612 3423 542 3404 401 1871 408 1877 555"/></Shape>
+            <String CONTENT="CHANSONS"
+                    HPOS="1871"
+                    VPOS="401"
+                    WIDTH="1552"
+                    HEIGHT="211"
+                    WC="0.9994015693664551"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="853"
                    VPOS="625"
                    WIDTH="3126"
@@ -255,7 +278,7 @@
                     WIDTH="2548"
                     HEIGHT="251">
             <Shape><Polygon POINTS="961 3572 965 3636 1046 3615 1335 3628 1340 3628 1344 3628 1399 3602 1884 3598 2599 3611 2603 3611 2607 3611 2658 3585 2731 3606 2735 3606 2739 3606 2969 3585 3199 3602 3203 3602 3505 3568 3505 3534 3501 3423 3441 3385 3437 3385 3433 3385 3428 3385 3424 3385 3348 3428 2901 3428 2854 3389 2854 3385 2850 3385 2846 3385 2773 3385 2769 3385 2765 3385 2761 3385 2761 3389 2718 3428 2620 3440 2480 3440 2433 3411 2429 3411 2424 3411 2420 3411 2416 3411 2356 3432 2305 3394 2301 3394 2297 3394 2293 3394 2054 3449 1867 3449 1820 3419 1816 3419 1812 3419 1808 3419 1803 3419 1799 3419 1799 3423 1795 3423 1774 3453 1629 3453 1484 3406 1480 3406 1272 3406 1267 3406 1263 3406 1259 3406 1212 3449 1157 3411 1152 3411 1148 3411 1144 3411 957 3428 961 3572"/></Shape>
-            <String CONTENT="Perſonne noit-il mes clameurs?"
+            <String CONTENT="Perſonne n&#x27;oit-il mes clameurs?"
                     HPOS="957"
                     VPOS="3385"
                     WIDTH="2548"
@@ -473,29 +496,6 @@
                     WC="0.9869387913495302"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="1750"
-                   VPOS="371"
-                   WIDTH="1758"
-                   HEIGHT="281"
-                   ID="eSc_textblock_388777e9"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="1877 371 1750 652 3508 652 3508 371"/></Shape>
-          <TextLine ID="eSc_line_30aea74f"
-                    TAGREFS="LT10"
-                    BASELINE="1880 556 3424 544" 
-                    HPOS="1871"
-                    VPOS="401"
-                    WIDTH="1552"
-                    HEIGHT="211">
-            <Shape><Polygon POINTS="1877 599 3411 612 3423 542 3404 401 1871 408 1877 555"/></Shape>
-            <String CONTENT="CHANSONS"
-                    HPOS="1871"
-                    VPOS="401"
-                    WIDTH="1552"
-                    HEIGHT="211"
-                    WC="0.9994015693664551"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="3825"
                    VPOS="6550"
                    WIDTH="271"
@@ -511,7 +511,7 @@
                     WIDTH="171"
                     HEIGHT="217">
             <Shape><Polygon POINTS="4024 6605 3981 6545 3939 6541 3896 6533 3896 6677 3896 6750 4067 6737 4067 6677 4067 6554 4024 6545 4024 6605"/></Shape>
-            <String CONTENT="O"
+            <String CONTENT="Ou"
                     HPOS="3896"
                     VPOS="6533"
                     WIDTH="171"
