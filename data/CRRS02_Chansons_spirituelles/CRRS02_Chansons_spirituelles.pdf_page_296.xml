@@ -45,6 +45,29 @@
                     WC="0.9994130929311117"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="1859"
+                   VPOS="362"
+                   WIDTH="1513"
+                   HEIGHT="299"
+                   ID="eSc_textblock_7652cefc"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="1859 362 1859 661 3372 661 3372 362"/></Shape>
+          <TextLine ID="eSc_line_f6d7e2d4"
+                    TAGREFS="LT10"
+                    BASELINE="1972 574 3272 562" 
+                    HPOS="1968"
+                    VPOS="407"
+                    WIDTH="1304"
+                    HEIGHT="248">
+            <Shape><Polygon POINTS="3211 427 3089 407 3085 407 3081 407 2966 435 2860 415 2856 415 2852 415 2848 415 2807 439 2433 411 2428 411 2424 411 2420 411 2420 415 2388 443 2021 415 2017 415 2013 415 2009 415 1968 439 1972 574 1972 627 2135 627 2188 651 2192 651 2196 655 2380 655 2380 651 2384 651 2465 623 2649 647 2653 647 2881 619 2966 643 2971 643 2975 643 3195 623 3264 639 3272 562 3264 443 3231 435"/></Shape>
+            <String CONTENT="CHANSONS"
+                    HPOS="1968"
+                    VPOS="407"
+                    WIDTH="1304"
+                    HEIGHT="248"
+                    WC="0.9997508749365807"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="835"
                    VPOS="670"
                    WIDTH="2546"
@@ -360,7 +383,7 @@
                     WIDTH="1540"
                     HEIGHT="203">
             <Shape><Polygon POINTS="1031 4850 1031 4891 1960 4907 1964 4907 2567 4879 2567 4838 2563 4748 2481 4716 2477 4716 2241 4704 2237 4704 2233 4704 2229 4704 2176 4748 1972 4748 1886 4708 1882 4708 1878 4708 1874 4708 1760 4752 1324 4752 1243 4712 1238 4712 1079 4712 1075 4712 1071 4712 1067 4712 1027 4736 1031 4850"/></Shape>
-            <String CONTENT="Germains &amp; coufins"
+            <String CONTENT="Germains &amp; couſins"
                     HPOS="1027"
                     VPOS="4704"
                     WIDTH="1540"
@@ -473,29 +496,6 @@
                     WC="0.9710622570093941"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="1859"
-                   VPOS="362"
-                   WIDTH="1513"
-                   HEIGHT="299"
-                   ID="eSc_textblock_7652cefc"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="1859 362 1859 661 3372 661 3372 362"/></Shape>
-          <TextLine ID="eSc_line_f6d7e2d4"
-                    TAGREFS="LT10"
-                    BASELINE="1972 574 3272 562" 
-                    HPOS="1968"
-                    VPOS="407"
-                    WIDTH="1304"
-                    HEIGHT="248">
-            <Shape><Polygon POINTS="3211 427 3089 407 3085 407 3081 407 2966 435 2860 415 2856 415 2852 415 2848 415 2807 439 2433 411 2428 411 2424 411 2420 411 2420 415 2388 443 2021 415 2017 415 2013 415 2009 415 1968 439 1972 574 1972 627 2135 627 2188 651 2192 651 2196 655 2380 655 2380 651 2384 651 2465 623 2649 647 2653 647 2881 619 2966 643 2971 643 2975 643 3195 623 3264 639 3272 562 3264 443 3231 435"/></Shape>
-            <String CONTENT="CHANSONS"
-                    HPOS="1968"
-                    VPOS="407"
-                    WIDTH="1304"
-                    HEIGHT="248"
-                    WC="0.9997508749365807"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="3562"
                    VPOS="6233"
                    WIDTH="444"
@@ -511,7 +511,7 @@
                     WIDTH="385"
                     HEIGHT="275">
             <Shape><Polygon POINTS="3625 6439 3625 6500 3991 6524 4004 6432 3991 6286 3619 6249 3625 6439"/></Shape>
-            <String CONTENT="Donet"
+            <String CONTENT="Donne"
                     HPOS="3619"
                     VPOS="6249"
                     WIDTH="385"
